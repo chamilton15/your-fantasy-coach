@@ -4,16 +4,24 @@ const Chatbot = () => {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState("");
 
-  const handleSend = async () => {
+  const handleSend = async (e) => {
     if (input.trim() === "") return;
 
     const newMessages = [...messages, { text: input, user: "You" }];
     setMessages(newMessages);
     setInput("");
 
-    // Simulating API response (Replace this with an actual API call)
+    const res = await fetch('http://localhost:5000/ask', {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({  text: input }),
+    });
+    const text = await res.text();
+
     setTimeout(() => {
-      const botResponse = { text: "This is a sample response from the chatbot.", user: "Bot" };
+      const botResponse = { text: text, user: "Bot" };
       setMessages([...newMessages, botResponse]);
     }, 1000);
   };

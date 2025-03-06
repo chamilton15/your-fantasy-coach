@@ -11,12 +11,12 @@ const Chatbot = () => {
     setMessages(newMessages);
     setInput("");
 
-    const res = await fetch('http://localhost:5000/ask', {
+    const res = await fetch("http://localhost:5001/ask", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({  text: input }),
+      body: JSON.stringify({ text: input }),
     });
     const text = await res.text();
 
@@ -30,7 +30,12 @@ const Chatbot = () => {
     <div className="chat-container">
       <div className="chat-window">
         {messages.map((msg, index) => (
-          <div key={index} className={`chat-message ${msg.user === "You" ? "user-message" : "bot-message"}`}>
+          <div
+            key={index}
+            className={`chat-message ${
+              msg.user === "You" ? "user-message" : "bot-message"
+            }`}
+          >
             <strong>{msg.user}:</strong> {msg.text}
           </div>
         ))}

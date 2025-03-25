@@ -1,0 +1,12 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23,Column_24,Column_25,Column_26,Column_27,Column_28,Column_29,Column_30,Column_31
+,Rushing,Receiving,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Season,Age,Team,Lg,Pos,G,GS,Att,Yds,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Tgt,Rec,Yds,1D,YBC,YBC/R,YAC,YAC/R,ADOT,BrkTkl,Drop,Drop%,Int,Rat,Awards
+2018,23,KAN,NFL,QB,16,16,60,272,17,224,3.7,48,0.8,0,,0,0,0,0,0,,0,,,0,0,,0,,"PB,AP-1,AP MVP-1,AP OPoY-1"
+2019,24,KAN,NFL,QB,14,14,43,218,15,194,4.5,24,0.6,1,43.0,0,0,0,0,0,,0,,,0,0,,0,,"PB,AP OPoY-4"
+2020,25,KAN,NFL,QB,15,15,62,308,22,261,4.2,47,0.8,2,31.0,2,0,0,0,0,,0,,12.5,0,0,0.0,1,0.0,"PB,AP-2,AP MVP-3,AP OPoY-2"
+2021,26,KAN,NFL,QB,17,17,66,381,25,366,5.5,15,0.2,0,,0,0,0,0,0,,0,,,0,0,,0,,PB
+2022,27,KAN,NFL,QB,17,17,61,358,25,345,5.7,13,0.2,0,,1,1,6,0,-9,-9.0,15,15.0,-9.0,0,0,0.0,0,91.7,"PB,AP-1,AP MVP-1,AP OPoY-2"
+2023,28,KAN,NFL,QB,16,16,75,389,27,350,4.7,39,0.5,2,37.5,0,0,0,0,0,,0,,,0,0,,0,,"PB,AP MVP-7"
+2024,29,KAN,NFL,QB,16,16,58,307,22,240,4.1,67,1.2,0,,1,1,2,0,-1,-1.0,3,3.0,-1.0,0,0,0.0,0,79.2,"AP MVP-6,AP OPoY-17"
+7 Yrs,,111,111,425,2233,153,1980,4.7,253,0.6,5,85.0,4,2,8,0,-10,-5.0,18,9.0,3.8,0,0,0.0,1,16.7,,,,
+17 Game Avg,,17,17,65,342,23,303,4.7,39,0.6,1,85.0,1,0,1,0,-2,-5.0,3,9.0,3.8,0,0,0.0,0,16.7,,,,

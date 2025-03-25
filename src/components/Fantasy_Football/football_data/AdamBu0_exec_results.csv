@@ -1,0 +1,58 @@
+Year,Tm,Lg,Job Title,W,L,T,W-L%,W plyf,L plyf,Playoff Result
+1960,Houston Oilers,AFL,Founder/Owner/Chairman/President/CEO,10,4,0,.714,1,0,Won Champ
+1961,Houston Oilers,AFL,Founder/Owner/Chairman/President/CEO,10,3,1,.769,1,0,Won Champ
+1962,Houston Oilers,AFL,Founder/Owner/Chairman/President/CEO,11,3,0,.786,0,1,Lost Conf
+1963,Houston Oilers,AFL,Founder/Owner/Chairman/President/CEO,6,8,0,.429,0,0,
+1964,Houston Oilers,AFL,Founder/Owner/Chairman/President/CEO,4,10,0,.286,0,0,
+1965,Houston Oilers,AFL,Founder/Owner/Chairman/President/CEO,4,10,0,.286,0,0,
+1966,Houston Oilers,AFL,Founder/Owner/Chairman/President/CEO,3,11,0,.214,0,0,
+1967,Houston Oilers,AFL,Founder/Owner/Chairman/President/CEO,9,4,1,.692,0,1,Lost Conf
+1968,Houston Oilers,AFL,Founder/Owner/Chairman/President/CEO,7,7,0,.500,0,0,
+1969,Houston Oilers,AFL,Founder/Owner/Chairman/President/CEO,6,6,2,.500,0,1,Lost Div
+1970,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,3,10,1,.231,0,0,
+1971,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,4,9,1,.308,0,0,
+1972,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,1,13,0,.071,0,0,
+1973,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,1,13,0,.071,0,0,
+1974,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,7,7,0,.500,0,0,
+1975,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,10,4,0,.714,0,0,
+1976,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,5,9,0,.357,0,0,
+1977,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,8,6,0,.571,0,0,
+1978,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,10,6,0,.625,2,1,Lost Conf
+1979,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,11,5,0,.688,2,1,Lost Conf
+1980,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,11,5,0,.688,0,1,Lost WC
+1981,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,7,9,0,.438,0,0,
+1982,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,1,8,0,.111,0,0,
+1983,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,2,14,0,.125,0,0,
+1984,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,3,13,0,.188,0,0,
+Year,Tm,Lg,Job Title,W,L,T,W-L%,W plyf,L plyf,Playoff Result
+1985,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,5,11,0,.313,0,0,
+1986,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,5,11,0,.313,0,0,
+1987,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,9,6,0,.600,1,1,Lost Div
+1988,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,10,6,0,.625,1,1,Lost Div
+1989,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,9,7,0,.563,0,1,Lost WC
+1990,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,9,7,0,.563,0,1,Lost WC
+1991,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,11,5,0,.688,1,1,Lost Div
+1992,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,10,6,0,.625,0,1,Lost WC
+1993,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,12,4,0,.750,0,1,Lost Div
+1994,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,2,14,0,.125,0,0,
+1995,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,7,9,0,.438,0,0,
+1996,Houston Oilers,NFL,Founder/Owner/Chairman/President/CEO,8,8,0,.500,0,0,
+1997,Tennessee Oilers,NFL,Founder/Owner/Chairman/President/CEO,8,8,0,.500,0,0,
+1998,Tennessee Oilers,NFL,Founder/Owner/Chairman/President/CEO,8,8,0,.500,0,0,
+1999,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,13,3,0,.813,3,1,Lost SB
+2000,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,13,3,0,.813,0,1,Lost Div
+2001,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,7,9,0,.438,0,0,
+2002,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,11,5,0,.688,1,1,Lost Conf
+2003,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,12,4,0,.750,1,1,Lost Div
+2004,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,5,11,0,.313,0,0,
+2005,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,4,12,0,.250,0,0,
+2006,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,8,8,0,.500,0,0,
+2007,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,10,6,0,.625,0,1,Lost WC
+2008,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,13,3,0,.813,0,1,Lost Div
+2009,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,8,8,0,.500,0,0,
+2010,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,6,10,0,.375,0,0,
+2011,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,9,7,0,.563,0,0,
+2012,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,6,10,0,.375,0,0,
+2013,Tennessee Titans,NFL,Founder/Owner/Chairman/President/CEO,7,9,0,.438,0,0,
+,Total,,54 Years,399,415,6,,14,19,
+,Houston Oilers,,1960-2013,399,415,6,,14,19,

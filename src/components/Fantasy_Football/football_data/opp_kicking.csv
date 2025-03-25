@@ -1,0 +1,40 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9
+,,Scoring,,,,,,
+Rk,Tm,G,FGA,FGM,FG%,XPA,XPM,XP%
+1,Cleveland Browns,17,31,22,71.0%,52,51,98.1%
+2,Chicago Bears,17,43,38,88.4%,32,32,100.0%
+3,New York Giants,17,37,29,78.4%,45,44,97.8%
+4,Tennessee Titans,17,31,26,83.9%,53,50,94.3%
+5,Jacksonville Jaguars,17,40,34,85.0%,42,41,97.6%
+6,New York Jets,17,42,38,90.5%,36,32,88.9%
+7,New England Patriots,17,35,30,85.7%,43,41,95.3%
+8,Carolina Panthers,17,42,36,85.7%,56,54,96.4%
+9,New Orleans Saints,17,42,33,78.6%,37,35,94.6%
+10,Las Vegas Raiders,17,43,38,88.4%,42,40,95.2%
+11,Miami Dolphins,17,42,36,85.7%,31,30,96.8%
+12,Seattle Seahawks,17,34,29,85.3%,34,33,97.1%
+13,Los Angeles Rams,17,33,30,90.9%,40,36,90.0%
+14,Indianapolis Colts,17,38,30,78.9%,43,43,100.0%
+15,Arizona Cardinals,17,38,34,89.5%,38,35,92.1%
+16,Kansas City Chiefs,17,31,24,77.4%,35,30,85.7%
+17,Dallas Cowboys,17,31,29,93.5%,52,49,94.2%
+18,Houston Texans,17,28,26,92.9%,37,36,97.3%
+19,Los Angeles Chargers,17,37,28,75.7%,29,29,100.0%
+20,Pittsburgh Steelers,17,33,26,78.8%,32,31,96.9%
+,,Scoring,,,,,,
+Rk,Tm,G,FGA,FGM,FG%,XPA,XPM,XP%
+21,Atlanta Falcons,17,32,31,96.9%,42,40,95.2%
+22,Denver Broncos,17,33,29,87.9%,26,26,100.0%
+23,San Francisco 49ers,17,32,30,93.8%,44,42,95.5%
+24,Green Bay Packers,17,27,23,85.2%,34,33,97.1%
+25,Philadelphia Eagles,17,32,25,78.1%,25,22,88.0%
+26,Cincinnati Bengals,17,26,22,84.6%,49,46,93.9%
+27,Minnesota Vikings,17,30,23,76.7%,31,31,100.0%
+28,Tampa Bay Buccaneers,17,44,33,75.0%,38,38,100.0%
+29,Washington Commanders,17,35,28,80.0%,37,35,94.6%
+30,Baltimore Ravens,17,33,29,87.9%,32,32,100.0%
+31,Buffalo Bills,17,25,20,80.0%,41,40,97.6%
+32,Detroit Lions,17,35,28,80.0%,33,32,97.0%
+,Avg Team,,34.8,29.3,84.0%,38.8,37.2,95.8%
+,League Total,,1115,937,84.0%,1241,1189,95.8%
+,Avg Tm/G,,2.0,1.7,84.0%,2.3,2.2,95.8%

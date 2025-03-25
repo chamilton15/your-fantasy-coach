@@ -1,0 +1,10 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23,Column_24,Column_25,Column_26,Column_27,Column_28,Column_29,Column_30,Column_31
+,Receiving,Rushing,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Season,Age,Team,Lg,Pos,G,GS,Tgt,Rec,Yds,1D,YBC,YBC/R,YAC,YAC/R,ADOT,BrkTkl,Rec/Br,Drop,Drop%,Int,Rat,Att,Yds,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Awards
+2020,21,CIN,NFL,WR,16,14,108,67,908,52,598,8.9,310,4.6,11.5,5,13.4,8,7.4,1,103.5,5,28,1,22,4.4,6,1.2,0,
+2021,22,CIN,NFL,WR,14,14,110,74,1091,53,801,10.8,290,3.9,12.1,4,18.5,5,4.5,2,110.1,0,0,0,0,,0,,0,
+2022,23,CIN,NFL,WR,16,14,109,74,1029,47,743,10.0,286,3.9,10.9,2,37.0,8,7.3,1,115.6,0,0,0,0,,0,,0,
+2023,24,CIN,NFL,WR,12,11,76,42,656,33,421,10.0,235,5.6,12.8,0,,7,9.2,1,100.5,0,0,0,0,,0,,0,
+2024,25,CIN,NFL,WR,12,9,109,73,911,48,683,9.4,228,3.1,9.8,7,10.4,3,2.8,1,119.5,0,0,0,0,,0,,0,
+5 Yrs,,70,62,512,330,4595,233,3246,9.8,1349,4.1,11.3,18,18.3,31,6.1,6,110.4,5,28,1,22,4.4,6,1.2,0,,,,
+17 Game Avg,,17,15,124,80,1116,57,788,9.8,328,4.1,11.3,4,18.3,8,6.1,1,110.4,1,7,0,5,4.4,1,1.2,0,,,,

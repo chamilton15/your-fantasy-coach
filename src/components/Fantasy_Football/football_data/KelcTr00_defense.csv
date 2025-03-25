@@ -1,0 +1,15 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23,Column_24,Column_25
+,Def Interceptions,Fumbles,,Tackles,,,,,,,,,,,,,,,,,,,,
+Season,Age,Team,Lg,Pos,G,GS,Int,Yds,IntTD,Lng,PD,FF,Fmb,FR,Yds,FRTD,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty,Awards
+2014,25,KAN,NFL,TE,16,11,0,0,0,0,0,0,4,1,0,1,0.0,0,0,0,0,0,0,
+2015,26,KAN,NFL,TE,16,16,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,,,0,PB
+,,,,,,,,,,,,,,,,,,,,,,,,
+2018,29,KAN,NFL,TE,16,16,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-1"
+2019,30,KAN,NFL,TE,16,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+2020,31,KAN,NFL,TE,15,15,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-1,AP OPoY-4"
+2021,32,KAN,NFL,TE,16,16,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,"PB,AP-2"
+2022,33,KAN,NFL,TE,17,17,0,0,0,0,0,0,1,0,0,0,0.0,2,2,0,0,0,0,"PB,AP-1,AP OPoY-6"
+2023,34,KAN,NFL,TE,15,15,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,PB
+2024,35,KAN,NFL,TE,16,16,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0,PB
+12 Yrs,,175,168,0,0,0,0,1,0,15,1,0,1,0.0,2,2,0,0,0,0,,,,
+17 Game Avg,,17,16,0,0,0,0,,0,1,0,0,0,0.0,,,,,,0,,,,

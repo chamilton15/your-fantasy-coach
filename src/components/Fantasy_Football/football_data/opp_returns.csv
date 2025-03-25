@@ -1,0 +1,40 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11
+,,Punt Returns,Kick Returns,,,,,,,
+Rk,Tm,G,Ret,Yds,TD,Y/R,Rt,Yds,TD,Y/Rt
+1,Washington Commanders,17,24,148,0,6.2,73,1932,2,26.5
+2,New Orleans Saints,17,28,213,0,7.6,57,1483,0,26.0
+3,Tennessee Titans,17,47,655,1,13.9,28,899,0,32.1
+4,Chicago Bears,17,41,422,0,10.3,31,853,0,27.5
+5,Dallas Cowboys,17,33,341,0,10.3,39,1058,0,27.1
+6,Pittsburgh Steelers,17,31,219,0,7.1,40,1157,0,28.9
+7,Seattle Seahawks,17,31,284,0,9.2,40,1114,1,27.9
+8,Green Bay Packers,17,20,229,1,11.5,49,1323,0,27.0
+9,Houston Texans,17,25,121,0,4.8,42,1126,0,26.8
+10,Carolina Panthers,17,26,178,0,6.8,40,970,0,24.3
+11,Cleveland Browns,17,40,530,1,13.3,25,700,1,28.0
+12,New York Jets,17,29,256,0,8.8,31,809,0,26.1
+13,Los Angeles Chargers,17,28,268,0,9.6,26,743,0,28.6
+14,New England Patriots,17,32,406,1,12.7,21,529,0,25.2
+15,Philadelphia Eagles,17,24,179,0,7.5,29,828,0,28.6
+16,Denver Broncos,17,29,251,0,8.7,22,604,0,27.5
+17,Kansas City Chiefs,17,25,253,0,10.1,26,741,0,28.5
+18,Las Vegas Raiders,17,26,294,0,11.3,25,596,0,23.8
+19,San Francisco 49ers,17,19,261,0,13.7,31,886,1,28.6
+20,Baltimore Ravens,17,21,163,0,7.8,28,795,0,28.4
+,,Punt Returns,Kick Returns,,,,,,,
+Rk,Tm,G,Ret,Yds,TD,Y/R,Rt,Yds,TD,Y/Rt
+21,Atlanta Falcons,17,22,305,0,13.9,27,738,0,27.3
+22,Buffalo Bills,17,23,213,0,9.3,25,770,1,30.8
+23,Cincinnati Bengals,17,26,228,0,8.8,20,490,0,24.5
+24,Detroit Lions,17,21,135,0,6.4,24,747,0,31.1
+25,Indianapolis Colts,17,32,405,0,12.7,13,452,1,34.8
+26,Tampa Bay Buccaneers,17,21,272,1,13.0,23,626,0,27.2
+27,New York Giants,17,26,274,1,10.5,16,463,0,28.9
+28,Minnesota Vikings,17,28,191,0,6.8,14,399,0,28.5
+29,Miami Dolphins,17,22,230,0,10.5,17,429,0,25.2
+30,Jacksonville Jaguars,17,28,251,0,9.0,10,274,0,27.4
+31,Los Angeles Rams,17,24,211,0,8.8,13,381,0,29.3
+32,Arizona Cardinals,17,21,214,0,10.2,15,471,0,31.4
+,Avg Team,,27.3,268.8,0.2,9.9,28.8,793.3,0.2,27.6
+,League Total,,873,8600,6,9.9,920,25386,7,27.6
+,Avg Tm/G,,1.6,15.8,0.0,9.9,1.7,46.7,0.0,27.6

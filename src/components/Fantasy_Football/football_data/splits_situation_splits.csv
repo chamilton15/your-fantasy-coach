@@ -1,0 +1,9 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21
+,Rushing,Passing,,,,,,,,,,,,,,,,,,
+Game Situation,#Pl,ToGo,Yds,Att,Yds,Y/A,TD,1D,Cmp,Att,Cmp%,Yds,Y/A,TD,Int,Sk,1D,Rate,ANY/A,
+"Trailing, < 4 min to go",1991,8.48,5.21,442,2175,4.9,18,156,847,1457,58.1,8803,6.0,53,49,92,459,73.8,4.9,"All 2024 plays when Trailing, < 4 min to go"
+"Trailing, < 2 min to go",1065,8.57,4.94,201,979,4.9,10,72,442,812,54.4,4670,5.8,33,36,52,248,66.5,4.3,"All 2024 plays when Trailing, < 2 min to go"
+"Tied, < 4 min to go",188,8.94,4.86,68,221,3.3,2,16,62,110,56.4,745,6.8,3,1,10,34,82.6,6.3,"All 2024 plays when Tied, < 4 min to go"
+"Tied, < 2 min to go",131,8.76,4.82,46,161,3.5,1,11,38,79,48.1,497,6.3,2,0,6,21,76.8,6.3,"All 2024 plays when Tied, < 2 min to go"
+"Leading, < 4 min to go",1113,8.68,3.20,921,2194,2.4,37,132,114,176,64.8,1485,8.4,26,2,16,70,126.1,10.0,"All 2024 plays when Leading, < 4 min to go"
+"Leading, < 2 min to go",476,9.15,1.30,445,383,.9,17,47,20,28,71.4,259,9.3,10,0,3,12,139.7,14.8,"All 2024 plays when Leading, < 2 min to go"

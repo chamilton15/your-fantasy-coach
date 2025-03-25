@@ -1,0 +1,17 @@
+Year,Tm,Lg,Job Title,W,L,T,W-L%,W plyf,L plyf,Playoff Result
+2000,New England Patriots,NFL,Asst. Director of Player Personnel,5,11,0,.313,0,0,
+2001,New England Patriots,NFL,Director of Player Personnel,11,5,0,.688,3,0,Won SB
+2002,New England Patriots,NFL,VP of Player Personnel,9,7,0,.563,0,0,
+2003,New England Patriots,NFL,VP of Player Personnel,14,2,0,.875,3,0,Won SB
+2004,New England Patriots,NFL,VP of Player Personnel,14,2,0,.875,3,0,Won SB
+2005,New England Patriots,NFL,VP of Player Personnel,10,6,0,.625,1,1,Lost Div
+2006,New England Patriots,NFL,VP of Player Personnel,12,4,0,.750,2,1,Lost Conf
+2007,New England Patriots,NFL,VP of Player Personnel,16,0,0,1.000,2,1,Lost SB
+2008,New England Patriots,NFL,VP of Player Personnel,11,5,0,.688,0,0,
+2009,Kansas City Chiefs,NFL,General Manager,4,12,0,.250,0,0,
+2010,Kansas City Chiefs,NFL,General Manager,10,6,0,.625,0,1,Lost WC
+2011,Kansas City Chiefs,NFL,General Manager,7,9,0,.438,0,0,
+2012,Kansas City Chiefs,NFL,General Manager,2,14,0,.125,0,0,
+,Total,,13 Years,125,83,0,,14,4,
+,New England Patriots,,2000-2008,102,42,0,,14,3,
+,Kansas City Chiefs,,2009-2012,23,41,0,,0,1,

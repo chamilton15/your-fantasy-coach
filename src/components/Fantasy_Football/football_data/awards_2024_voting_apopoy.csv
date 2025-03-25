@@ -1,0 +1,22 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20
+,Games,Passing,Rushing,Receiving,,,,,,,,,,,,,,,
+Rk,Pos,Player,Tm,Vote Pts,1st Place,Share,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD
+1,RB,Saquon Barkley,Philadelphia Eagles,406.0,35,81.2%,16,16,0,0,0,0,0,345,2005,13,33,278,2
+2,QB,Lamar Jackson,Baltimore Ravens,183.0,12,36.6%,17,17,316,474,4172,41,4,139,915,4,0,0,0
+3,WR,Ja'Marr Chase,Cincinnati Bengals,171.0,0,34.2%,17,16,0,0,0,0,0,3,32,0,127,1708,17
+4,RB,Derrick Henry,Baltimore Ravens,92.0,1,18.4%,17,17,0,0,0,0,0,325,1921,16,19,193,2
+5,QB,Joe Burrow,Cincinnati Bengals,78.0,1,15.6%,17,17,460,652,4918,43,9,42,201,2,0,0,0
+6,QB,Josh Allen,Buffalo Bills,48.0,1,9.6%,17,17,307,483,3731,28,6,102,531,12,0,7,1
+7,WR,Justin Jefferson,Minnesota Vikings,27.0,0,5.4%,17,17,1,1,22,0,0,1,3,0,103,1533,10
+8,RB,Jahmyr Gibbs,Detroit Lions,21.0,0,4.2%,17,4,0,0,0,0,0,250,1412,16,52,517,4
+9,QB,Jared Goff,Detroit Lions,5.0,0,1%,17,17,390,539,4629,37,12,35,56,0,1,7,1
+10,G,Joe Thuney,Kansas City Chiefs,4.0,0,0.8%,17,17,0,0,0,0,0,0,0,0,0,0,0
+11,RB,Kyren Williams,Los Angeles Rams,2.0,0,0.4%,16,16,0,0,0,0,0,316,1299,14,34,182,2
+12,WR,Amon-Ra St. Brown,Detroit Lions,2.0,0,0.4%,17,17,1,1,7,1,0,2,6,0,115,1263,12
+13,T,Penei Sewell,Detroit Lions,2.0,0,0.4%,17,17,0,0,0,0,0,0,0,0,0,0,0
+14,QB,Baker Mayfield,Tampa Bay Buccaneers,2.0,0,0.4%,17,17,407,570,4500,41,16,60,378,3,0,0,0
+15,TE,George Kittle,San Francisco 49ers,2.0,0,0.4%,15,15,0,0,0,0,0,0,0,0,78,1106,8
+16,RB,Josh Jacobs,Green Bay Packers,2.0,0,0.4%,17,17,0,0,0,0,0,301,1329,15,36,342,1
+17,T,Jordan Mailata,Philadelphia Eagles,1.0,0,0.2%,12,12,0,0,0,0,0,0,0,0,0,0,0
+18,QB,Patrick Mahomes,Kansas City Chiefs,1.0,0,0.2%,16,16,392,581,3928,26,11,58,307,2,1,2,0
+19,QB,Jayden Daniels,Washington Commanders,1.0,0,0.2%,17,17,331,480,3568,25,9,148,891,6,0,0,0

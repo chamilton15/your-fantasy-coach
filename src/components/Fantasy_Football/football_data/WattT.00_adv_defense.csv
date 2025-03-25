@@ -1,0 +1,12 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23,Column_24,Column_25,Column_26,Column_27,Column_28,Column_29
+,Pass Coverage,Pass Rush,Tackles,,,,,,,,,,,,,,,,,,,,,,,,,
+Season,Age,Team,Lg,Pos,G,GS,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Bats,Sk,Prss,Comb,MTkl,MTkl%,Awards
+2018,24,PIT,NFL,LOLB,16,16,0,27,22,81.5,198,9.0,7.3,1,109.6,5.0,70,128,46,18,7,0,13.0,38,68,14,17.1,PB
+2019,25,PIT,NFL,LOLB,16,16,2,5,2,40.0,13,6.5,2.6,0,8.3,3.6,0,13,80,23,19,5,14.5,59,55,8,12.7,"PB,AP-1,AP DPoY-3"
+2020,26,PIT,NFL,LOLB,15,15,1,6,3,50.0,15,5.0,2.5,1,56.2,7.8,15,0,91,19,26,4,15.0,61,53,6,10.2,"PB,AP-1,AP DPoY-2"
+2021,27,PIT,NFL,LOLB,15,15,0,4,4,100.0,41,10.3,10.3,0,109.4,3.0,12,29,45,15,13,6,22.5,52,64,13,16.9,"PB,AP-1,AP DPoY-1"
+2022,28,PIT,NFL,LOLB,10,10,2,3,3,100.0,24,8.0,8.0,0,60.4,2.3,7,17,36,2,4,3,5.5,13,39,3,7.1,PB
+2023,29,PIT,NFL,LB,17,17,1,8,5,62.5,49,9.8,6.1,0,40.1,1.6,3,46,23,12,18,6,19.0,50,68,10,12.8,"PB,AP-1,AP DPoY-2"
+2024,30,PIT,NFL,LB,17,17,0,5,5,100.0,33,6.6,6.6,0,94.2,-0.8,-4,37,23,3,16,3,11.5,31,61,4,6.2,"PB,AP-2,AP DPoY-4"
+7 Yrs,,106,106,6,58,44,75.9,373,8.5,6.4,2,64.0,3.9,103,270,344,92,103,27,101.0,304,408,58,12.4,,,,
+17 Game Avg,,17,17,1,9,7,75.9,60,8.5,6.4,0,64.0,3.9,17,43,55,15,17,4,16.2,49,65,9,12.4,,,,

@@ -1,0 +1,720 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23,Column_24,Column_25
+,Misc,,,,Passing,Rushing,Receiving,,,,,,,,,,,,,,,,,
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2024,1,Chop Robinson,21,DE,2024,0,0,0,2,17,0,0,0,0,0,,,0,,,0,,6.0,Penn St.
+2024,2,Patrick Paul,55,OL,2024,0,0,0,2,17,0,0,0,0,0,,,0,,,0,,,Houston
+2024,4,Jaylen Wright,120,RB,2024,0,0,0,2,15,0,0,0,0,0,68,249,0,3,8,0,,,Tennessee
+2024,5,Mohamed Kamara,158,DL,2024,0,0,0,0,5,0,0,0,0,0,,,0,,,0,,,Colorado St.
+2024,6,Malik Washington,184,WR,2024,0,0,0,2,14,0,0,0,0,0,5,25,1,26,223,0,,,Virginia
+2024,6,Patrick McMorris,198,DB,2024,0,0,0,0,6,0,0,0,0,0,,,0,,,0,,,California
+2024,7,Tahj Washington,241,WR,,0,0,0,,,,,,,,,,,,,,,,USC
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2023,2,Cam Smith,51,DB,2024,0,0,0,1,21,0,0,0,0,0,,,0,,,0,,,South Carolina
+2023,3,De'Von Achane,84,RB,2024,0,0,1,18,28,0,0,0,0,0,306,1707,14,105,789,9,,,Texas A&M
+2023,6,Elijah Higgins,197,WR,2024,0,0,0,4,28,0,0,0,0,0,,,0,34,335,3,,,Stanford
+2023,7,Ryan Hayes,238,OL,2024,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Michigan
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2022,3,Channing Tindall,102,LB,2024,0,0,0,3,44,0,0,0,0,0,,,0,,,0,,,Georgia
+2022,4,Erik Ezukanma,125,WR,2024,0,0,0,0,5,0,0,0,0,0,5,22,0,1,3,0,,,Texas Tech
+2022,7,Cameron Goode,224,OLB,2024,0,0,0,1,20,0,0,0,0,0,,,0,,,0,,,California
+2022,7,Skylar Thompson,247,QB,2024,0,0,0,3,10,81,138,721,1,3,15,25,0,,,0,,,Kansas St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2021,1,Jaylen Waddle,6,WR,2024,0,0,4,34,62,0,0,0,0,0,12,53,1,309,4129,20,,,Alabama
+2021,1,Jaelan Phillips,18,DL,2024,0,0,1,16,46,0,0,0,0,0,,,0,,,0,1,23.0,Miami (FL)
+2021,2,Jevon Holland,36,S,2024,0,0,4,21,60,0,0,0,0,0,,,0,,,0,5,5.0,Oregon
+2021,2,Liam Eichenberg,42,OL,2024,0,0,4,23,60,0,0,0,0,0,,,0,,,0,,,Notre Dame
+2021,3,Hunter Long,81,TE,2024,0,0,0,1,37,0,0,0,0,0,,,0,8,68,0,,,Boston Col.
+2021,7,Larnel Coleman,231,T,2022,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Massachusetts
+2021,7,Gerrid Doaks,244,RB,,0,0,0,,,,,,,,,,,,,,,,Cincinnati
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2020,1,Tua Tagovailoa,5,QB,2024,0,1,5,45,64,1387,2037,15506,100,44,153,430,6,,,0,,,Alabama
+2020,1,Austin Jackson,18,T,2024,0,0,4,23,56,0,0,0,0,0,,,0,,,0,,,USC
+2020,1,Noah Igbinoghene,30,CB,2024,0,0,1,7,54,0,0,0,0,0,,,0,,,0,1,,Auburn
+2020,2,Robert Hunt,39,G,2024,0,1,5,29,77,0,0,0,0,0,1,0,0,,,0,,,Louisiana
+2020,2,Raekwon Davis,56,DT,2024,0,0,3,23,80,0,0,0,0,0,,,0,,,0,,2.0,Alabama
+2020,3,Brandon Jones,70,S,2024,0,0,2,17,70,0,0,0,0,0,,,0,,,0,6,8.0,Texas
+2020,4,Solomon Kindley,111,G,2021,0,0,1,6,29,0,0,0,0,0,,,0,,,0,,,Georgia
+2020,5,Jason Strowbridge,154,DE,2020,0,0,0,1,8,0,0,0,0,0,,,0,,,0,,,North Carolina
+2020,5,Curtis Weaver,164,DE,2021,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Boise St.
+2020,6,Blake Ferguson,185,LS,2024,0,0,0,4,72,0,0,0,0,0,,,0,,,0,,,LSU
+2020,7,Malcolm Perry,246,RB,2020,0,0,0,1,9,0,0,0,0,0,3,5,0,9,92,1,,,Navy
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2019,1,Christian Wilkins,13,DT,2024,0,0,5,35,86,0,0,0,0,0,,,0,2,2,2,1,22.5,Clemson
+2019,3,Michael Deiter,78,G,2024,0,0,2,16,90,0,0,0,0,0,,,0,1,0,0,,,Wisconsin
+2019,5,Andrew Van Ginkel,151,LB,2024,0,1,4,39,90,0,0,0,0,0,,,0,,,0,4,28.5,Wisconsin
+2019,6,Isaiah Prince,202,T,2024,0,0,0,4,22,0,0,0,0,0,,,0,,,0,,,Ohio St.
+2019,7,Chandler Cox,233,RB,2020,0,0,0,0,21,0,0,0,0,0,,,0,2,9,0,,,Auburn
+2019,7,Myles Gaskin,234,RB,2024,0,0,1,13,46,0,0,0,0,0,364,1354,7,102,712,6,,,Washington
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2018,1,Minkah Fitzpatrick,11,S,2024,3,5,6,58,106,0,0,0,0,0,,,0,,,0,20,,Alabama
+2018,2,Mike Gesicki,42,TE,2024,0,0,2,26,115,0,1,0,0,0,,,0,325,3526,22,,,Penn St.
+2018,3,Jerome Baker,73,OLB,2024,0,0,6,37,104,0,0,0,0,0,,,0,,,0,5,24.5,Ohio St.
+2018,4,Durham Smythe,123,TE,2024,0,0,5,10,112,0,0,0,0,0,4,4,1,132,1228,3,,,Notre Dame
+2018,4,Kalen Ballage,131,RB,2021,0,0,1,6,52,0,0,0,0,0,213,665,7,54,293,0,,,Arizona St.
+2018,6,Cornell Armstrong,209,CB,2022,0,0,0,3,39,0,0,0,0,0,,,0,,,0,,,Southern Miss
+2018,7,Quentin Poling,227,LB,2019,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Ohio
+2018,7,Jason Sanders,229,K,2024,1,0,2,23,116,0,0,0,0,0,,,0,1,1,1,,,New Mexico
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2017,1,Charles Harris,22,OLB,2024,0,0,2,16,103,0,0,0,0,0,,,0,,,0,,19.5,Missouri
+2017,2,Raekwon McMillan,54,LB,2024,0,0,2,15,72,0,0,0,0,0,,,0,,,0,,1.0,Ohio St.
+2017,3,Cordrea Tankersley,97,CB,2020,0,0,1,4,19,0,0,0,0,0,,,0,,,0,,,Clemson
+2017,5,Isaac Asiata,164,G,2018,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,Utah
+2017,5,Davon Godchaux,178,DT,2024,0,0,6,45,120,0,0,0,0,0,,,0,,,0,,5.5,LSU
+2017,6,Vincent Taylor,194,DT,2021,0,0,0,5,40,0,0,0,0,0,,,0,,,0,,2.0,Oklahoma St.
+2017,7,Isaiah Ford,237,WR,2021,0,0,0,5,32,0,0,0,0,0,1,11,0,63,681,2,,,Virginia Tech
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2016,1,Laremy Tunsil,13,T,2024,0,5,8,55,125,0,0,0,0,0,,,0,,,0,,,Mississippi
+2016,2,Xavien Howard,38,CB,2023,1,4,7,56,100,0,0,0,0,0,,,0,,,0,29,2.0,Baylor
+2016,3,Kenyan Drake,73,RB,2023,0,0,2,33,104,0,0,0,0,0,869,3866,33,218,1655,8,,,Alabama
+2016,3,Leonte Carroo,86,WR,2018,0,0,0,2,37,0,0,0,0,0,1,14,0,12,192,2,,,Rutgers
+2016,6,Jakeem Grant,186,WR,2021,0,1,0,14,81,0,0,0,0,0,17,76,1,100,1140,7,,,Texas Tech
+2016,6,Jordan Lucas,204,S,2021,0,0,0,4,50,0,0,0,0,0,,,0,,,0,1,1.0,Penn St.
+2016,7,Brandon Doughty,223,QB,,0,0,0,,,,,,,,,,,,,,,,Western Kentucky
+2016,7,Thomas Duarte,231,TE,2016,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,UCLA
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2015,1,DeVante Parker,14,WR,2023,0,0,6,36,119,0,0,0,0,0,,,0,402,5660,27,,,Louisville
+2015,2,Jordan Phillips,52,NT,2024,0,0,5,31,129,0,0,0,0,0,,,0,,,0,2,24.0,Oklahoma
+2015,4,Jamil Douglas,114,G,2021,0,0,0,7,50,0,0,0,0,0,,,0,,,0,,,Arizona St.
+2015,5,Bobby McCain,145,CB,2024,0,0,6,28,134,0,0,0,0,0,,,0,,,0,11,4.0,Memphis
+2015,5,Jay Ajayi,149,RB,2019,0,1,2,19,45,0,0,0,0,0,572,2546,13,63,419,1,,,Boise St.
+2015,5,Cedric Thompson,150,S,,0,0,0,,,,,,,,,,,,,,,,Minnesota
+2015,5,Tony Lippett,156,WR,2018,0,0,1,6,28,0,0,0,0,0,,,0,,,0,4,,Michigan St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2014,1,Ja'Wuan James,19,T,2022,0,0,4,27,66,0,0,0,0,0,,,0,,,0,,,Tennessee
+2014,2,Jarvis Landry,63,WR,2022,0,5,8,56,132,6,9,146,1,0,40,239,5,713,7870,38,,,LSU
+2014,3,Billy Turner,67,T,2023,0,0,5,35,105,0,0,0,0,0,,,0,,,0,,,North Dakota St.
+2014,4,Walt Aikens,125,DB,2019,0,0,0,6,93,0,0,0,0,0,,,0,,,0,2,,Liberty
+2014,5,Arthur Lynch,155,TE,,0,0,0,,,,,,,,,,,,,,,,Georgia
+2014,5,Jordan Tripp,171,LB,2017,0,0,0,3,37,0,0,0,0,0,,,0,,,0,,,Montana
+2014,6,Matt Hazel,190,WR,2017,0,0,0,0,9,0,0,0,0,0,,,0,1,1,0,,,Coastal Carolina
+2014,7,Terrence Fede,234,DE,2017,0,0,0,5,51,0,0,0,0,0,,,0,,,0,,1.0,Marist
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2013,1,Dion Jordan,3,DE,2020,0,0,0,9,63,0,0,0,0,0,,,0,,,0,,13.5,Oregon
+2013,2,Jamar Taylor,54,DB,2020,0,0,2,18,98,0,0,0,0,0,,,0,,,0,5,1.5,Boise St.
+2013,3,Dallas Thomas,77,T,2016,0,0,1,13,37,0,0,0,0,0,,,0,,,0,,,Tennessee
+2013,3,Will Davis,93,DB,2016,0,0,0,0,20,0,0,0,0,0,,,0,,,0,1,,Utah St.
+2013,4,Jelani Jenkins,104,LB,2017,0,0,3,15,60,0,0,0,0,0,,,0,,,0,,3.5,Florida
+2013,4,Dion Sims,106,TE,2018,0,0,2,8,78,0,0,0,0,0,,,0,91,888,9,,,Michigan St.
+2013,5,Mike Gillislee,164,RB,2018,0,0,0,11,36,0,0,0,0,0,274,1291,16,17,103,1,,,Florida
+2013,5,Caleb Sturgis,166,K,2018,0,0,0,8,68,0,0,0,0,0,,,0,,,0,,,Florida
+2013,7,Don Jones,250,DB,2016,0,0,0,2,56,0,0,0,0,0,,,0,,,0,,,Arkansas St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2012,1,Ryan Tannehill,8,QB,2023,0,1,10,91,155,3063,4764,34881,216,115,440,2103,27,4,8,1,,,Texas A&M
+2012,2,Jonathan Martin,42,T,2014,0,0,2,14,38,0,0,0,0,0,,,0,,,0,,,Stanford
+2012,3,Olivier Vernon,72,LB,2020,0,1,8,50,127,0,0,0,0,0,,,0,,,0,1,63.5,Miami (FL)
+2012,3,Michael Egnew,78,TE,2013,0,0,0,0,18,0,0,0,0,0,,,0,7,69,0,,,Missouri
+2012,4,Lamar Miller,97,RB,2020,0,1,6,42,106,0,0,0,0,0,1354,5864,32,211,1571,8,,,Miami (FL)
+2012,5,Josh Kaddu,155,LB,2014,0,0,0,0,6,0,0,0,0,0,,,0,,,0,,,Oregon
+2012,6,B.J. Cunningham,183,WR,2013,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,Michigan St.
+2012,7,Kheeston Randall,215,DT,2012,0,0,0,1,12,0,0,0,0,0,,,0,,,0,,,Texas
+2012,7,Rishard Matthews,227,WR,2018,0,0,4,22,87,0,0,0,0,0,3,4,0,230,3160,21,,,Nevada
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2011,1,Mike Pouncey,15,G,2019,0,4,7,52,114,0,0,0,0,0,,,0,,,0,,,Florida
+2011,2,Daniel Thomas,62,RB,2014,0,0,0,11,52,0,0,0,0,0,409,1480,10,55,412,3,,,Kansas St.
+2011,4,Clyde Gates,111,WR,2013,0,0,0,3,32,0,0,0,0,0,2,16,0,30,365,0,,,Abilene Christian
+2011,6,Charles Clay,174,TE,2019,0,0,9,29,127,0,0,0,0,0,7,15,1,357,3868,24,,,Tulsa
+2011,7,Frank Kearse,231,DT,2015,0,0,0,5,35,0,0,0,0,0,,,0,,,0,,5.5,Alabama A&M
+2011,7,Jimmy Wilson,235,DB,2015,0,0,1,12,73,0,0,0,0,0,,,0,,,0,5,3.0,Montana
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2010,1,Jared Odrick,28,DE,2016,0,0,3,29,87,0,0,0,0,0,,,0,,,0,1,23.0,Penn St.
+2010,2,Koa Misi,40,LB,2016,0,0,6,30,84,0,0,0,0,0,,,0,,,0,,12.0,Utah
+2010,3,John Jerry,73,T,2019,0,0,6,40,132,0,0,0,0,0,,,0,,,0,,,Mississippi
+2010,4,A.J. Edds,119,LB,2014,0,0,0,1,17,0,0,0,0,0,,,0,,,0,,,Iowa
+2010,5,Nolan Carroll,145,DB,2017,0,0,4,20,103,0,0,0,0,0,,,0,,,0,8,3.0,Maryland
+2010,5,Reshad Jones,163,DB,2019,0,2,8,44,128,0,0,0,0,0,,,0,,,0,21,10.5,Georgia
+2010,7,Chris McCoy,212,DE,,0,0,0,,,,,,,,,,,,,,,,Middle Tenn. St.
+2010,7,Austin Spitler,252,LB,2013,0,0,0,5,55,0,0,0,0,0,,,0,,,0,,,Ohio St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2009,1,Vontae Davis,25,DB,2018,0,2,8,45,121,0,0,0,0,0,,,0,,,0,22,2.0,Illinois
+2009,2,Pat White,44,QB,2009,0,0,0,1,13,0,5,0,0,0,21,81,0,,,0,,,West Virginia
+2009,2,Sean Smith,61,DB,2017,0,0,8,38,137,0,0,0,0,0,,,0,,,0,14,,Utah
+2009,3,Patrick Turner,87,WR,2012,0,0,0,1,24,0,0,0,0,0,,,0,10,122,1,,,USC
+2009,4,Brian Hartline,108,WR,2015,0,0,5,32,104,0,0,0,0,0,7,65,1,344,4766,14,,,Ohio St.
+2009,5,John Nalbone,161,TE,2010,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,Monmouth
+2009,5,Chris Clemons,165,DB,2015,0,0,3,20,80,0,0,0,0,0,1,3,0,,,0,4,1.5,Clemson
+2009,6,Andrew Gardner,181,T,2016,0,0,0,7,28,0,0,0,0,0,,,0,0,0,0,,,Georgia Tech
+2009,7,J.D. Folsom,214,LB,2009,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,Weber St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2008,1,Jake Long,1,T,2016,1,4,6,54,104,0,0,0,0,0,,,0,,,0,,,Michigan
+2008,2,Phillip Merling,32,DE,2013,0,0,0,6,53,0,0,0,0,0,,,0,,,0,1,3.5,Clemson
+2008,2,Chad Henne,57,QB,2022,0,0,3,26,78,1200,2015,13290,60,63,143,351,4,1,-6,0,,,Michigan
+2008,3,Kendall Langford,66,DE,2017,0,0,8,43,136,0,0,0,0,0,,,0,,,0,,22.5,Hampton
+2008,4,Shawn Murphy,110,T,2009,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Utah St.
+2008,6,Jalen Parmele,176,RB,2014,0,0,0,1,36,0,0,0,0,0,48,187,0,7,60,0,,,Toledo
+2008,6,Donald Thomas,195,G,2013,0,0,1,16,45,0,0,0,0,0,,,0,,,0,,,Connecticut
+2008,6,Lex Hilliard,204,RB,2012,0,0,1,3,62,0,0,0,0,0,48,163,2,30,233,2,,,Montana
+2008,7,Lionel Dotson,245,DT,2011,0,0,0,0,12,0,0,0,0,0,,,0,,,0,,,Arizona
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2007,1,Ted Ginn Jr.,9,WR,2020,0,0,7,52,193,1,1,10,0,0,68,486,2,412,5742,33,,,Ohio St.
+2007,2,John Beck,40,QB,2011,0,0,0,4,9,140,239,1417,3,7,19,55,3,,,0,,,BYU
+2007,2,Samson Satele,60,C,2014,0,0,8,48,118,0,0,0,0,0,1,0,0,1,-3,0,,,Hawaii
+2007,3,Lorenzo Booker,71,RB,2011,0,0,0,4,36,0,0,0,0,0,61,230,0,47,362,0,,,Florida St.
+2007,4,Paul Soliai,108,DT,2016,0,1,6,41,138,0,0,0,0,0,,,0,,,0,,5.5,Utah
+2007,6,Reagan Maui'a,181,RB,2012,0,0,1,0,39,0,0,0,0,0,4,5,0,6,44,0,,,Hawaii
+2007,6,Drew Mormino,199,C,,0,0,0,,,,,,,,,,,,,,,,Central Michigan
+2007,7,Kelvin Smith,219,LB,2009,0,0,0,0,7,0,0,0,0,0,,,0,,,0,,,Syracuse
+2007,7,Brandon Fields,225,P,2015,0,1,0,21,130,0,1,0,0,0,3,0,0,,,0,,,Michigan St.
+2007,7,Abraham Wright,238,DE,,0,0,0,,,,,,,,,,,,,,,,Colorado
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2006,1,Jason Allen,16,DB,2012,0,0,1,13,98,0,0,0,0,0,,,0,,,0,15,,Tennessee
+2006,3,Derek Hagan,82,WR,2014,0,0,0,12,99,0,0,0,0,0,,,0,148,1734,7,,,Arizona St.
+2006,4,Joe Toledo,114,T,,0,0,0,,,,,,,,,,,,,,,,Washington
+2006,7,Fred Evans,212,DT,2013,0,0,0,9,95,0,0,0,0,0,,,0,,,0,,3.0,Texas St.
+2006,7,Rodrique Wright,226,DT,2008,0,0,0,4,13,0,0,0,0,0,,,0,,,0,,1.5,Texas
+2006,7,Devin Aromashodu,233,WR,2012,0,0,0,10,61,0,0,0,0,0,,,0,78,1193,5,,,Auburn
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2005,1,Ronnie Brown,2,RB,2014,0,1,6,41,132,4,12,63,2,0,1281,5391,38,246,1966,2,,,Auburn
+2005,2,Matt Roth,46,DE,2011,0,0,5,27,96,0,0,0,0,0,,,0,,,0,,23.5,Iowa
+2005,3,Channing Crowder,70,LB,2010,0,0,6,31,82,0,0,0,0,0,,,0,,,0,1,2.5,Florida
+2005,4,Travis Daniels,104,DB,2012,0,0,1,13,107,0,0,0,0,0,,,0,,,0,6,,LSU
+2005,5,Anthony Alabi,162,T,2007,0,0,0,1,16,0,0,0,0,0,,,0,,,0,,,TCU
+2005,7,Kevin Vickerson,216,DT,2014,0,0,3,21,86,0,0,0,0,0,,,0,,,0,1,6.5,Michigan St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2004,1,Vernon Carey,19,T,2011,0,0,7,44,121,0,0,0,0,0,,,0,,,0,,,Miami (FL)
+2004,4,Will Poole,102,DB,2004,0,0,0,1,15,0,0,0,0,0,,,0,,,0,,1.0,USC
+2004,5,Tony Bua,160,LB,2004,0,0,0,1,7,0,0,0,0,0,,,0,,,0,,,Arkansas
+2004,6,Rex Hadnot,174,G,2012,0,0,5,35,129,0,0,0,0,0,,,0,0,-2,0,,,Houston
+2004,7,Tony Pape,221,G,,0,0,0,,,,,,,,,,,,,,,,Michigan
+2004,7,Derrick Pope,222,LB,2007,0,0,1,10,55,0,0,0,0,0,,,0,,,0,2,2.0,Alabama
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2003,2,Eddie Moore,49,LB,2005,0,0,0,3,18,0,0,0,0,0,,,0,,,0,,,Tennessee
+2003,3,Wade Smith,78,T,2014,0,1,6,43,143,0,0,0,0,0,,,0,,,0,,,Memphis
+2003,3,Taylor Whitley,87,G,2005,0,0,1,4,18,0,0,0,0,0,,,0,,,0,,,Texas A&M
+2003,5,Donald Lee,156,TE,2011,0,0,5,17,133,0,0,0,0,0,,,0,209,1990,19,,,Mississippi St.
+2003,5,J.R. Tolver,169,WR,,0,0,0,,,,,,,,,,,,,,,,San Diego St.
+2003,6,Corey Jenkins,181,LB,2004,0,0,0,1,23,0,0,0,0,0,,,0,,,0,,,South Carolina
+2003,6,Tim Provost,209,T,,0,0,0,,,,,,,,,,,,,,,,San Jose St.
+2003,6,Yeremiah Bell,213,DB,2013,0,1,7,40,142,0,0,0,0,0,,,0,,,0,8,13.0,Eastern Kentucky
+2003,7,Davern Williams,248,DT,2004,0,0,0,1,3,0,0,0,0,0,,,0,,,0,,0.5,Troy
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2002,3,Seth McKinney,90,C,2009,0,0,3,21,93,0,0,0,0,0,,,0,,,0,,,Texas A&M
+2002,4,Randy McMichael,114,TE,2012,0,0,10,33,164,0,0,0,0,0,1,8,0,426,4539,24,,,Georgia
+2002,5,Omare Lowe,161,DB,2008,0,0,0,2,43,0,0,0,0,0,,,0,,,0,,,Washington
+2002,5,Sam Simmons,170,WR,2003,0,0,0,0,11,0,0,0,0,0,,,0,0,0,0,,,Northwestern
+2002,7,Leonard Henry,241,RB,2004,0,0,0,1,6,0,0,0,0,0,46,141,0,3,12,0,,,East Carolina
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2001,1,Jamar Fletcher,26,DB,2008,0,0,0,9,105,0,0,0,0,0,,,0,,,0,7,1.0,Wisconsin
+2001,2,Chris Chambers,52,WR,2010,0,1,8,58,153,0,0,0,0,0,44,373,0,540,7648,58,,,Wisconsin
+2001,3,Travis Minor,85,RB,2008,0,0,0,10,118,0,0,0,0,0,307,1230,8,67,474,1,,,Florida St.
+2001,3,Morlon Greenwood,88,LB,2008,0,0,8,39,125,0,0,0,0,0,,,0,,,0,2,7.0,Syracuse
+2001,5,Shawn Draper,156,T,,0,0,0,,,,,,,,,,,,,,,,Alabama
+2001,6,Brandon Winey,164,T,2004,0,0,0,3,24,0,0,0,0,0,,,0,,,0,,,LSU
+2001,6,Josh Heupel,177,QB,,0,0,0,,,,,,,,,,,,,,,,Oklahoma
+2001,6,Otis Leverette,187,DE,2004,0,0,0,3,17,0,0,0,0,0,,,0,,,0,1,2.0,Ala-Birmingham
+2001,6,Rick Crowell,188,LB,,0,0,0,,,,,,,,,,,,,,,,Colorado St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+2000,2,Todd Wade,53,T,2007,0,0,7,41,99,0,0,0,0,0,,,0,,,0,,,Mississippi
+2000,3,Ben Kelly,84,DB,2002,0,0,0,0,13,0,0,0,0,0,,,0,,,0,,,Colorado
+2000,4,Deon Dyer,117,FB,2002,0,0,0,0,45,0,0,0,0,0,,,0,2,14,0,,,North Carolina
+2000,5,Arturo Freeman,152,DB,2005,0,0,2,13,74,0,0,0,0,0,,,0,,,0,5,3.5,South Carolina
+2000,6,Ernest Grant,167,DT,2002,0,0,0,3,24,0,0,0,0,0,,,0,,,0,,0.5,Ark-Pine Bluff
+2000,7,Jeff Harris,232,DB,,0,0,0,,,,,,,,,,,,,,,,Georgia
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1999,2,J.J. Johnson,39,RB,2001,0,0,0,7,36,0,0,0,0,0,219,748,5,29,182,0,,,Mississippi St.
+1999,2,Rob Konrad,43,FB,2004,0,0,5,9,82,0,0,0,0,0,38,114,1,111,854,6,,,Syracuse
+1999,3,Grey Ruegamer,72,C,2008,0,0,1,15,124,0,0,0,0,0,,,0,0,0,0,,,Arizona St.
+1999,5,Cecil Collins,134,RB,1999,0,0,1,3,8,0,0,0,0,0,131,414,2,6,32,0,,,McNeese St.
+1999,5,Bryan Jones,142,LB,,0,0,0,,,,,,,,,,,,,,,,Oregon St.
+1999,6,Brent Bartholomew,192,P,2000,0,0,0,0,9,0,0,0,0,0,,,0,,,0,,,Ohio St.
+1999,7,Jermaine Haley,232,DT,2004,0,0,0,12,62,0,0,0,0,0,,,0,,,0,1,3.5,Butte JC (CA)
+1999,7,Joe Wong,244,G,2003,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,BYU
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1998,1,John Avery,29,RB,2003,0,0,0,4,29,0,0,0,0,0,149,524,2,16,115,2,,,Mississippi
+1998,2,Patrick Surtain,44,DB,2008,1,3,8,68,163,0,0,0,0,0,,,0,,,0,37,7.5,Southern Miss
+1998,2,Kenny Mixon,49,DE,2004,0,0,6,37,105,0,0,0,0,0,,,0,,,0,2,18.5,LSU
+1998,3,Brad Jackson,79,LB,2002,0,0,0,8,50,0,0,0,0,0,,,0,,,0,,,Cincinnati
+1998,3,Larry Shannon,82,WR,1999,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,East Carolina
+1998,4,Lorenzo Bromell,102,DE,2004,0,0,0,11,77,0,0,0,0,0,,,0,,,0,,27.5,Clemson
+1998,5,Scott Shaw,143,G,1998,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,Michigan St.
+1998,6,Nathan Strikwerda,171,C,,0,0,0,,,,,,,,,,,,,,,,Northwestern
+1998,6,John Dutton,172,QB,,0,0,0,,,,,,,,,,,,,,,,Nevada
+1998,7,Jim Bundren,210,G,2000,0,0,1,3,27,0,0,0,0,0,,,0,,,0,,,Clemson
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1997,1,Yatil Green,15,WR,1999,0,0,0,2,8,0,0,0,0,0,,,0,18,234,0,,,Miami (FL)
+1997,2,Sam Madison,44,DB,2008,2,4,10,86,173,0,0,0,0,0,,,0,,,0,38,2.0,Louisville
+1997,3,Jason Taylor HOF,73,DE,2011,3,6,12,118,233,0,0,0,0,0,,,0,0,0,0,8,139.5,Akron
+1997,3,Derrick Rodgers,92,LB,2004,0,0,8,43,116,0,0,0,0,0,,,0,,,0,4,9.0,Arizona St.
+1997,3,Ronnie Ward,93,LB,1997,0,0,0,0,4,0,0,0,0,0,,,0,,,0,,,Kansas
+1997,3,Brent Smith,96,G,2004,0,0,1,16,57,0,0,0,0,0,,,0,,,0,,,Mississippi St.
+1997,4,Jerome Daniels,121,G,1998,0,0,0,3,8,0,0,0,0,0,,,0,,,0,,,Northeastern
+1997,5,Barron Tanner,149,DT,2003,0,0,2,13,78,0,0,0,0,0,,,0,,,0,1,3.0,Oklahoma
+1997,5,Nicholas Lopez,157,DE,,0,0,0,,,,,,,,,,,,,,,,Texas Southern
+1997,6,John Fiala,166,LB,2002,0,0,0,6,75,0,0,0,0,0,,,0,,,0,,,Washington
+1997,6,Brian Manning,170,WR,1998,0,0,0,1,10,0,0,0,0,0,,,0,7,85,0,,,Stanford
+1997,6,Mike Crawford,173,LB,1997,0,0,0,0,7,0,0,0,0,0,,,0,,,0,,,Nevada
+1997,6,Ed Perry,177,TE,2005,0,0,0,2,109,0,0,0,0,0,,,0,39,308,2,,,James Madison
+1997,7,Hudhaifa Ismaeli,203,DB,,0,0,0,,,,,,,,,,,,,,,,Northwestern
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1996,1,Daryl Gardener,20,DT,2003,0,0,7,42,102,0,0,0,0,0,,,0,,,0,1,19.0,Baylor
+1996,3,Dorian Brew,79,DB,1997,0,0,0,0,16,0,0,0,0,0,,,0,,,0,,,Kansas
+1996,3,Karim Abdul-Jabbar,80,RB,2000,0,0,3,24,61,0,0,0,0,0,1004,3411,33,90,586,2,,,UCLA
+1996,4,Kirk Pointer,113,DB,,0,0,0,,,,,,,,,,,,,,,,Austin Peay St.
+1996,4,Stanley Pritchett,118,FB,2004,0,0,4,13,121,0,0,0,0,0,149,549,5,162,1244,8,,,South Carolina
+1996,4,LaCurtis Jones,125,LB,1996,0,0,0,1,10,0,0,0,0,0,,,0,,,0,,,Baylor
+1996,5,Jerris McPhail,134,RB,1998,0,0,0,7,26,0,0,0,0,0,23,174,1,54,544,1,,,East Carolina
+1996,5,Shane Burton,150,DE,2003,0,0,2,30,125,0,0,0,0,0,,,0,,,0,3,18.0,Tennessee
+1996,5,Zach Thomas HOF,154,LB,2008,5,7,12,115,184,0,0,0,0,0,,,0,,,0,17,20.5,Texas Tech
+1996,6,Shawn Wooden,189,DB,2003,0,0,2,19,104,0,0,0,0,0,,,0,,,0,5,,Notre Dame
+1996,7,Jeff Buckey,230,G,1999,0,0,1,12,45,0,0,0,0,0,,,0,,,0,,,Stanford
+1996,7,Brice Hunter,251,WR,1998,0,0,0,1,13,0,0,0,0,0,,,0,4,73,1,,,Georgia
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1995,1,Billy Milner,25,T,1996,0,0,1,7,30,0,0,0,0,0,,,0,,,0,,,Houston
+1995,2,Andrew Greene,53,G,1998,0,0,0,1,10,0,0,0,0,0,,,0,,,0,,,Indiana
+1995,4,Pete Mitchell,122,TE,2002,0,0,3,23,114,0,0,0,0,0,,,0,279,2885,15,,,Boston Col.
+1995,5,Norman Hand,158,DT,2004,0,0,6,36,115,0,0,0,0,0,,,0,,,0,2,22.5,Mississippi
+1995,6,Jeff Kopp,194,LB,1999,0,0,0,4,63,0,0,0,0,0,,,0,,,0,1,1.0,USC
+1995,7,Corey Swinson,233,DT,,0,0,0,,,,,,,,,,,,,,,,Hampton
+1995,7,Shannon Myers,246,WR,,0,0,0,,,,,,,,,,,,,,,,Lenoir-Rhyne
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1994,1,Tim Bowens,20,DT,2004,0,2,10,63,157,0,0,0,0,0,,,0,,,0,1,22.0,Mississippi
+1994,2,Aubrey Beavers,54,LB,1996,0,0,0,7,39,0,0,0,0,0,,,0,,,0,3,,Oklahoma
+1994,2,Tim Ruddy,65,C,2003,0,1,9,61,156,0,0,0,0,0,,,0,0,0,0,,,Notre Dame
+1994,4,Ronnie Woolfork,112,LB,,0,0,0,,,,,,,,,,,,,,,,Colorado
+1994,5,William Gaines,147,DT,1997,0,0,1,12,51,0,0,0,0,0,,,0,,,0,,2.0,Florida
+1994,6,Brant Boyer,177,LB,2003,0,0,1,18,130,0,1,0,0,0,1,7,0,,,0,6,13.0,Arizona
+1994,7,Sean Hill,214,DB,1996,0,0,0,5,44,0,0,0,0,0,,,0,,,0,1,1.0,Montana St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1993,1,O.J. McDuffie,25,WR,2000,0,0,5,44,116,0,0,0,0,0,15,49,0,415,5074,29,,,Penn St.
+1993,3,Terry Kirby,78,RB,2002,0,0,2,47,110,4,6,85,3,0,761,2875,27,333,3222,12,,,Virginia
+1993,4,Ronnie Bradford,105,DB,2002,0,0,7,30,133,0,0,0,0,0,,,0,,,0,13,2.0,Colorado
+1993,5,Chris Gray,132,G,2007,0,0,11,64,208,0,0,0,0,0,,,0,,,0,,,Auburn
+1993,6,Robert O'Neal,164,DB,1994,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,Clemson
+1993,7,David Merritt,191,LB,1995,0,0,0,3,38,0,0,0,0,0,,,0,,,0,,,North Carolina St.
+1993,8,Dwayne Gordon,218,LB,2000,0,0,1,17,113,0,0,0,0,0,,,0,,,0,1,3.0,New Hampshire
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1992,1,Troy Vincent,7,DB,2006,1,5,13,90,207,0,0,0,0,0,,,0,,,0,47,5.5,Wisconsin
+1992,1,Marco Coleman,12,DE,2005,0,1,12,72,207,0,0,0,0,0,,,0,,,0,1,65.5,Georgia Tech
+1992,2,Eddie Blake,43,DT,,0,0,0,,,,,,,,,,,,,,,,Auburn
+1992,3,Larry Webster,70,DT,2002,0,0,2,23,136,0,0,0,0,0,,,0,,,0,,4.0,Maryland
+1992,4,Dwight Hollier,97,LB,2000,0,0,4,32,138,0,0,0,0,0,,,0,,,0,2,3.0,North Carolina
+1992,5,Christopher Perez,124,T,,0,0,0,,,,,,,,,,,,,,,,Kansas
+1992,6,Roosevelt Collins,155,LB,1992,0,0,0,1,10,0,0,0,0,0,,,0,,,0,,,TCU
+1992,7,Dave Moore,191,TE,2006,0,1,5,18,220,0,1,0,0,0,1,4,0,207,2028,28,,,Pittsburgh
+1992,8,Andre Powell,209,LB,1994,0,0,0,2,16,0,0,0,0,0,,,0,,,0,,,Penn St.
+1992,9,Tony Tellington,236,DB,,0,0,0,,,,,,,,,,,,,,,,Youngstown St.
+1992,10,Raoul Spears,267,RB,,0,0,0,,,,,,,,,,,,,,,,USC
+1992,11,Lee Miles,294,WR,,0,0,0,,,,,,,,,,,,,,,,Baylor
+1992,11,Mark Barsotti,296,QB,,0,0,0,,,,,,,,,,,,,,,,Fresno St.
+1992,12,Milton Biggins,321,TE,,0,0,0,,,,,,,,,,,,,,,,Western Kentucky
+1992,12,Kameno Bell,328,RB,,0,0,0,,,,,,,,,,,,,,,,Illinois
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1991,1,Randal Hill,23,WR,1997,0,0,3,27,103,0,0,0,0,0,2,15,0,262,3849,14,,,Miami (FL)
+1991,3,Aaron Craver,60,RB,1999,0,0,4,18,103,0,2,0,0,0,243,966,10,170,1364,4,,,Fresno St.
+1991,5,Bryan Cox,113,LB,2002,0,3,10,67,165,0,0,0,0,0,,,0,1,7,0,4,51.5,Western Illinois
+1991,5,Gene Williams,121,G,1999,0,0,4,31,114,0,0,0,0,0,,,0,,,0,,,Iowa St.
+1991,7,Chris Green,191,DB,1995,0,0,0,5,66,0,0,0,0,0,,,0,,,0,2,,Illinois
+1991,8,Roland Smith,220,DB,,0,0,0,,,,,,,,,,,,,,,,Miami (FL)
+1991,9,Scott Miller,246,WR,1996,0,0,0,3,55,0,0,0,0,0,,,0,21,274,1,,,UCLA
+1991,10,Michael Titley,275,TE,,0,0,0,,,,,,,,,,,,,,,,Iowa
+1991,11,Ernie Rogers,302,G,,0,0,0,,,,,,,,,,,,,,,,California
+1991,12,Joe Brunson,331,DT,,0,0,0,,,,,,,,,,,,,,,,Chattanooga
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1990,1,Richmond Webb,9,T,2002,2,7,12,102,184,0,0,0,0,0,,,0,,,0,,,Texas A&M
+1990,2,Keith Sims,39,G,2000,0,3,9,69,142,0,0,0,0,0,,,0,1,9,0,,,Iowa St.
+1990,3,Alfred Oglesby,66,NT,1995,0,0,1,11,59,0,0,0,0,0,,,0,,,0,,4.0,Houston
+1990,4,Scott Mitchell,93,QB,2001,0,0,5,49,99,1301,2346,15692,95,81,172,485,11,,,0,,,Utah
+1990,5,Leroy Holt,137,RB,,0,0,0,,,,,,,,,,,,,,,,USC
+1990,6,Sean Vanhorse,151,DB,1996,0,0,1,11,70,0,0,0,0,0,,,0,,,0,6,,Howard
+1990,8,Thomas Woods,205,WR,,0,0,0,,,,,,,,,,,,,,,,Tennessee
+1990,9,Phil Ross,231,TE,,0,0,0,,,,,,,,,,,,,,,,Oregon St.
+1990,12,Bobby Harden,315,DB,1993,0,0,0,4,29,0,0,0,0,0,,,0,,,0,2,1.0,Miami (FL)
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1989,1,Sammie Smith,9,RB,1992,0,0,2,13,44,0,0,0,0,0,532,1881,15,32,310,1,,,Florida St.
+1989,1,Louis Oliver,25,DB,1996,0,0,7,45,117,0,0,0,0,0,,,0,,,0,27,2.0,Florida
+1989,4,David Holmes,92,DB,,0,0,0,,,,,,,,,,,,,,,,Syracuse
+1989,5,Jeff Uhlenhake,121,C,1997,0,0,8,49,119,0,0,0,0,0,,,0,,,0,,,Ohio St.
+1989,6,Wes Pritchett,147,LB,1991,0,0,0,0,3,0,0,0,0,0,,,0,,,0,,,Notre Dame
+1989,7,Jim Zdelar,176,T,,0,0,0,,,,,,,,,,,,,,,,Youngstown St.
+1989,8,Pete Stoyanovich,203,K,2000,1,0,0,33,182,0,0,0,0,0,,,0,,,0,,,Indiana
+1989,9,Dana Batisite,232,LB,,0,0,0,,,,,,,,,,,,,,,,Texas A&M
+1989,10,Deval Glover,259,WR,,0,0,0,,,,,,,,,,,,,,,,Syracuse
+1989,10,Greg Ross,275,DT,,0,0,0,,,,,,,,,,,,,,,,Memphis
+1989,11,Bert Weidner,288,G,1995,0,0,2,26,81,0,0,0,0,0,,,0,,,0,,,Kent St.
+1989,12,J.B. Brown,315,DB,2000,0,0,7,37,166,0,0,0,0,0,,,0,,,0,16,1.0,Maryland
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1988,1,Eric Kumerow,16,DE,1990,0,0,0,4,42,0,0,0,0,0,,,0,,,0,1,5.0,Ohio St.
+1988,2,Jarvis Williams,42,DB,1994,0,0,7,36,104,0,0,0,0,0,,,0,,,0,16,3.0,Florida
+1988,3,Ferrell Edmunds,73,TE,1994,0,2,4,15,89,0,0,0,0,0,2,-15,0,148,1894,12,,,Maryland
+1988,4,Greg Johnson,99,T,1988,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Oklahoma
+1988,5,Rodney Thomas,126,DB,1991,0,0,0,4,46,0,0,0,0,0,,,0,,,0,3,1.0,BYU
+1988,6,Melvin Bratton,153,RB,,0,0,0,,,,,,,,,,,,,,,,Miami (FL)
+1988,6,George Cooper,156,RB,,0,0,0,,,,,,,,,,,,,,,,Ohio St.
+1988,7,Kerwin Bell,180,QB,1996,0,0,0,0,1,5,5,75,1,0,1,-1,0,,,0,,,Florida
+1988,8,Harry Galbreath,212,G,1996,0,0,9,60,141,0,0,0,0,0,,,0,,,0,,,Tennessee
+1988,8,Louis Cheek,220,T,1991,0,0,1,8,45,0,0,0,0,0,,,0,,,0,,,Texas A&M
+1988,9,Jeff Cross,239,DE,1995,0,1,7,50,125,0,0,0,0,0,,,0,,,0,1,59.5,Missouri
+1988,10,Artis Jackson,266,DT,,0,0,0,,,,,,,,,,,,,,,,Texas Tech
+1988,11,Tom Kelleher,292,RB,,0,0,0,,,,,,,,,,,,,,,,Holy Cross
+1988,12,Brian Kinchen,320,TE,2003,0,0,4,15,193,0,0,0,0,0,,,0,160,1648,7,,,LSU
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1987,1,John Bosa,16,DE,1989,0,0,1,10,31,0,0,0,0,0,,,0,,,0,,7.0,Boston Col.
+1987,2,Rick Graf,43,LB,1993,0,0,1,14,73,0,0,0,0,0,,,0,,,0,2,4.0,Wisconsin
+1987,2,Scott Schwedes,56,WR,1990,0,0,0,5,46,0,0,0,0,0,,,0,19,370,2,,,Syracuse
+1987,4,Troy Stradford,99,RB,1992,0,0,0,23,66,1,2,6,0,0,356,1380,10,170,1479,2,,,Boston Col.
+1987,5,Chris Conlin,132,G,1991,0,0,0,2,27,0,0,0,0,0,,,0,,,0,,,Penn St.
+1987,6,Lance Sellers,155,LB,1987,0,0,0,1,3,0,0,0,0,0,,,0,,,0,,,Boise St.
+1987,7,Tom Brown,182,RB,1989,0,0,1,1,10,0,0,0,0,0,16,29,0,14,123,0,,,Pittsburgh
+1987,8,Joel Williams,210,TE,1987,0,0,0,0,3,0,0,0,0,0,,,0,,,0,,,Notre Dame
+1987,8,Mark Dennis,212,T,1996,0,0,3,36,125,0,0,0,0,0,,,0,1,3,0,,,Illinois
+1987,9,Tim Pidgeon,237,LB,1987,0,0,0,2,3,0,0,0,0,0,,,0,,,0,,,Syracuse
+1987,10,Bobby Taylor,266,DB,,0,0,0,,,,,,,,,,,,,,,,Wisconsin
+1987,11,Terence Mann,293,DT,,0,0,0,,,,,,,,,,,,,,,,SMU
+1987,12,Jim Karsatos,322,QB,,0,0,0,,,,,,,,,,,,,,,,Ohio St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1986,2,John Offerdahl,52,LB,1993,1,5,7,48,89,0,0,0,0,0,,,0,,,0,4,9.5,Western Michigan
+1986,3,T.J. Turner,81,DE,1992,0,0,6,32,101,0,0,0,0,0,,,0,,,0,,16.0,Houston
+1986,4,James Pruitt,107,WR,1991,0,0,0,10,67,0,0,0,0,0,,,0,63,1013,9,,,Cal State-Fullerton
+1986,5,Kevin Wyatt,136,DB,1987,0,0,0,1,18,0,0,0,0,0,,,0,,,0,,,Arkansas
+1986,6,Brent Sowell,163,DT,,0,0,0,,,,,,,,,,,,,,,,Alabama
+1986,7,Larry Kolic,193,LB,1988,0,0,0,2,16,0,0,0,0,0,,,0,,,0,,,Ohio St.
+1986,8,John Stuart,218,T,,0,0,0,,,,,,,,,,,,,,,,Texas
+1986,9,Reyna Thompson,247,DB,1993,0,1,0,14,116,0,0,0,0,0,,,0,,,0,3,2.0,Baylor
+1986,10,Jeff Wickersham,274,QB,,0,0,0,,,,,,,,,,,,,,,,LSU
+1986,11,Arnold Franklin,303,TE,1987,0,0,0,0,3,0,0,0,0,0,,,0,,,0,,,North Carolina
+1986,12,Rickey Isom,329,RB,1987,0,0,0,0,3,0,0,0,0,0,9,41,1,1,11,0,,,North Carolina St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1985,1,Lorenzo Hampton,27,RB,1989,0,0,3,25,70,0,0,0,0,0,500,1949,22,123,954,6,,,Florida
+1985,3,George Little,65,DE,1987,0,0,1,8,39,0,0,0,0,0,,,0,,,0,,5.0,Iowa
+1985,3,Alex Moyer,83,LB,1986,0,0,0,1,13,0,0,0,0,0,,,0,,,0,1,,Northwestern
+1985,4,Mike Smith,91,DB,1987,0,0,0,1,29,0,0,0,0,0,,,0,,,0,,1.0,Texas-El Paso
+1985,4,Jeff Dellenbach,111,C,1999,0,0,6,53,211,0,0,0,0,0,,,0,,,0,,,Wisconsin
+1985,6,George Shorthose,145,WR,1985,0,0,0,0,3,0,0,0,0,0,,,0,,,0,,,Missouri
+1985,6,Ron Davenport,167,RB,1989,0,0,0,16,67,0,0,0,0,0,274,1127,13,93,801,4,,,Louisville
+1985,7,Fuad Reveiz,195,K,1995,0,1,0,25,147,0,0,0,0,0,,,0,,,0,,,Tennessee
+1985,8,Dan Sharp,223,TE,1987,0,0,0,0,9,0,0,0,0,0,,,0,2,6,0,,,TCU
+1985,9,Adam Hinds,251,DB,,0,0,0,,,,,,,,,,,,,,,,Oklahoma St.
+1985,10,Mike Pendleton,279,DB,,0,0,0,,,,,,,,,,,,,,,,Indiana
+1985,11,Mike Jones,307,RB,,0,0,0,,,,,,,,,,,,,,,,Tulane
+1985,12,Ray Noble,335,DB,,0,0,0,,,,,,,,,,,,,,,,California
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1984,1,Jackie Shipp,14,LB,1989,0,0,3,18,74,0,0,0,0,0,,,0,,,0,1,1.0,Oklahoma
+1984,2,Jay Brophy,53,LB,1987,0,0,0,8,34,0,0,0,0,0,,,0,,,0,1,2.0,Miami (FL)
+1984,4,Joe Carter,109,RB,1986,0,0,0,6,30,0,0,0,0,0,118,589,1,11,66,0,,,Alabama
+1984,5,Dean May,138,QB,1987,0,0,0,0,5,1,6,33,0,1,2,-4,0,,,0,,,Louisville
+1984,6,Rowland Tatum,165,LB,,0,0,0,,,,,,,,,,,,,,,,Ohio St.
+1984,7,Bernard Carvalho,194,G,,0,0,0,,,,,,,,,,,,,,,,Hawaii
+1984,8,Ronnie Landry,221,RB,,0,0,0,,,,,,,,,,,,,,,,McNeese St.
+1984,9,Jim Boyle,250,T,1988,0,0,0,3,9,0,0,0,0,0,,,0,1,0,0,,,Tulane
+1984,10,John Chesley,277,TE,1984,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Oklahoma St.
+1984,11,Bud Brown,305,DB,1988,0,0,3,17,73,0,0,0,0,0,,,0,,,0,5,,Southern Miss
+1984,12,William Devane,320,DT,,0,0,0,,,,,,,,,,,,,,,,Clemson
+1984,12,Mike Weingrad,333,LB,,0,0,0,,,,,,,,,,,,,,,,Illinois
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1983,1,Dan Marino HOF,27,QB,1999,3,9,16,145,242,4967,8358,61361,420,252,301,87,9,1,-6,0,,,Pittsburgh
+1983,2,Mike Charles,55,NT,1991,0,0,3,27,101,0,0,0,0,0,,,0,,,0,1,14.0,Syracuse
+1983,3,Charles Benson,76,DE,1987,0,0,0,4,28,0,0,0,0,0,,,0,,,0,1,2.0,Baylor
+1983,6,Reggie Roby,167,P,1998,2,3,0,28,238,1,1,48,0,0,9,4,0,,,0,,,Iowa
+1983,7,Keith Woetzel,195,LB,,0,0,0,,,,,,,,,,,,,,,,Rutgers
+1983,8,Mark Clayton,223,WR,1993,0,5,10,78,158,1,2,48,1,1,14,108,0,582,8974,84,,,Louisville
+1983,9,Mark Brown,250,LB,1991,0,0,5,28,107,0,0,0,0,0,,,0,,,0,4,10.5,Purdue
+1983,10,Anthony Reed,278,RB,,0,0,0,,,,,,,,,,,,,,,,South Carolina St.
+1983,11,Joe Lukens,306,G,,0,0,0,,,,,,,,,,,,,,,,Ohio St.
+1983,12,Anthony Carter,334,WR,1995,0,3,9,61,140,0,1,0,0,0,47,289,2,486,7733,55,,,Michigan
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1982,1,Roy Foster,24,G,1993,0,2,8,70,165,0,0,0,0,0,,,0,,,0,,,USC
+1982,2,Mark Duper,52,WR,1992,0,3,10,78,146,0,0,0,0,0,1,-10,0,511,8869,59,,,Northwestern St. (LA)
+1982,3,Paul Lankford,80,DB,1991,0,0,5,26,130,0,0,0,0,0,,,0,,,0,13,3.0,Penn St.
+1982,4,Charles Bowser,108,LB,1985,0,0,2,18,42,0,0,0,0,0,,,0,,,0,,20.0,Duke
+1982,5,Bob Nelson,120,NT,1990,0,0,3,20,62,0,0,0,0,0,,,0,,,0,,3.0,Miami (FL)
+1982,5,Rich Diana,136,RB,1982,0,0,0,1,9,0,0,0,0,0,8,31,0,2,21,0,,,Yale
+1982,6,Tom Tutson,161,DB,1983,0,0,0,0,10,0,0,0,0,0,,,0,,,0,,,South Carolina St.
+1982,6,Ron Hester,164,LB,1982,0,0,0,2,9,0,0,0,0,0,,,0,,,0,,1.0,Florida St.
+1982,7,Dan Johnson,170,TE,1987,0,0,2,10,66,0,0,0,0,0,,,0,94,1012,16,,,Iowa St.
+1982,7,Larry Cowan,192,RB,1982,0,0,0,0,8,0,0,0,0,0,1,3,0,,,0,,,Jackson St.
+1982,8,Tate Randle,220,DB,1987,0,0,0,13,69,0,0,0,0,0,,,0,,,0,7,,Texas Tech
+1982,9,Steve Clark,239,G,1985,0,0,0,6,41,0,0,0,0,0,,,0,,,0,,,Utah
+1982,9,Mack Boatner,248,RB,1986,0,0,0,0,7,0,0,0,0,0,,,0,,,0,,,Southeastern Louisiana
+1982,10,Robin Fisher,271,LB,,0,0,0,,,,,,,,,,,,,,,,Florida
+1982,10,Wayne Jones,276,G,1987,0,0,0,1,6,0,0,0,0,0,,,0,,,0,,,Utah
+1982,11,Gary Crum,303,T,,0,0,0,,,,,,,,,,,,,,,,Wyoming
+1982,12,Mike Rodrigue,331,WR,,0,0,0,,,,,,,,,,,,,,,,Miami (FL)
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1981,1,David Overstreet,13,RB,1983,0,0,0,4,14,0,0,0,0,0,85,392,1,8,55,2,,,Oklahoma
+1981,2,Andra Franklin,56,RB,1984,0,1,3,18,42,0,0,0,0,0,622,2232,22,6,15,1,,,Nebraska
+1981,4,Sam Greene,84,WR,,0,0,0,,,,,,,,,,,,,,,,UNLV
+1981,4,Brad Wright,96,QB,,0,0,0,,,,,,,,,,,,,,,,New Mexico
+1981,5,Ken Poole,126,DE,1981,0,0,0,1,16,0,0,0,0,0,,,0,,,0,,,La-Monroe
+1981,5,Tommy Vigorito,138,RB,1985,0,0,0,11,35,0,0,0,0,0,54,215,2,59,439,2,,,Virginia
+1981,6,Mack Moore,152,DE,1986,0,0,0,2,26,0,0,0,0,0,,,0,,,0,,6.5,Texas A&M
+1981,6,Fulton Walker,154,DB,1986,0,0,0,5,81,0,0,0,0,0,,,0,,,0,5,,West Virginia
+1981,7,Mike Daum,179,T,,0,0,0,,,,,,,,,,,,,,,,Cal Poly-San Luis Obispo
+1981,8,William Judson,208,DB,1989,0,0,7,37,115,0,0,0,0,0,,,0,,,0,24,,South Carolina St.
+1981,9,John Noonan,235,WR,,0,0,0,,,,,,,,,,,,,,,,Nebraska
+1981,10,Steve Folsom,261,TE,1990,0,0,1,3,45,0,0,0,0,0,,,0,37,349,4,,,Utah
+1981,11,Jim Jensen,291,WR,1992,0,0,0,20,164,4,7,102,2,0,26,142,0,229,2171,19,,,Boston Univ.
+1981,12,John Alford,318,DT,,0,0,0,,,,,,,,,,,,,,,,South Carolina St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1980,1,Don McNeal,21,DB,1989,0,0,4,30,110,0,0,0,0,0,,,0,,,0,18,,Alabama
+1980,2,Dwight Stephenson HOF,48,C,1987,4,5,6,80,114,0,0,0,0,0,,,0,,,0,,,Alabama
+1980,3,Bill Barnett,75,DE,1985,0,0,0,12,77,0,0,0,0,0,,,0,,,0,,2.5,Nebraska
+1980,4,Elmer Bailey,100,WR,1982,0,0,0,1,31,0,0,0,0,0,,,0,4,105,0,,,Minnesota
+1980,6,Eugene Byrd,158,WR,,0,0,0,,,,,,,,,,,,,,,,Michigan St.
+1980,7,Joe Rose,185,TE,1987,0,0,0,15,83,0,0,0,0,0,,,0,112,1493,13,,,California
+1980,8,Jeff Allen,212,DB,1982,0,0,1,6,25,0,0,0,0,0,,,0,,,0,1,,UC Davis
+1980,8,David Woodley,214,QB,1985,0,0,3,34,58,687,1300,8558,48,63,201,856,11,2,21,1,,,LSU
+1980,9,Mark Goodspeed,239,T,1980,0,0,0,0,3,0,0,0,0,0,,,0,,,0,,,Nebraska
+1980,10,Doug Lantz,271,C,,0,0,0,,,,,,,,,,,,,,,,Miami (OH)
+1980,10,Ben Long,272,LB,,0,0,0,,,,,,,,,,,,,,,,South Dakota
+1980,11,Phil Driscoll,279,DE,,0,0,0,,,,,,,,,,,,,,,,Minnesota St.
+1980,12,Chuck Stone,325,G,,0,0,0,,,,,,,,,,,,,,,,North Carolina St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1979,1,Jon Giesler,24,T,1988,0,0,9,52,126,0,0,0,0,0,,,0,,,0,,,Michigan
+1979,2,Jeff Toews,53,G,1985,0,0,0,14,71,0,0,0,0,0,,,0,,,0,,,Washington
+1979,3,Tony Nathan,61,RB,1987,1,0,5,60,123,4,8,61,1,0,732,3543,16,383,3592,16,,,Alabama
+1979,3,Mel Land,63,LB,1980,0,0,0,4,19,0,0,0,0,0,,,0,,,0,,,Michigan St.
+1979,3,Ronnie Lee,65,T,1992,0,0,8,43,186,0,0,0,0,0,,,0,25,167,3,,,Baylor
+1979,4,Steve Howell,107,FB,1981,0,0,1,2,42,0,0,0,0,0,68,235,1,10,70,0,,,Baylor
+1979,5,Don Bessillieu,134,DB,1985,0,0,1,14,59,0,0,0,0,0,,,0,,,0,5,2.0,Georgia Tech
+1979,6,Steve Lindquist,162,G,,0,0,0,,,,,,,,,,,,,,,,Nebraska
+1979,7,Uwe von Schamann,189,K,1984,0,0,0,17,89,0,0,0,0,0,,,0,,,0,,,Oklahoma
+1979,8,Jeff Groth,206,WR,1985,0,0,4,20,94,0,0,0,0,0,4,43,0,152,2126,5,,,Bowling Green
+1979,8,Glenn Blackwood,215,DB,1987,0,0,8,50,118,0,0,0,0,0,,,0,,,0,29,4.0,Texas
+1979,9,Jeff Weston,244,T,1982,0,0,0,9,37,0,0,0,0,0,,,0,,,0,,,Notre Dame
+1979,10,Jerome Stanton,258,DB,,0,0,0,,,,,,,,,,,,,,,,Michigan St.
+1979,10,Mike Kozlowski,272,DB,1986,0,0,0,12,91,0,0,0,0,0,,,0,,,0,8,2.0,Colorado
+1979,11,Mike Blanton,299,DE,,0,0,0,,,,,,,,,,,,,,,,Georgia Tech
+1979,12,Larry Fortner,327,QB,,0,0,0,,,,,,,,,,,,,,,,Miami (OH)
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1978,2,Guy Benjamin,51,QB,1983,0,0,0,1,19,39,68,439,3,3,3,0,0,,,0,,,Stanford
+1978,3,Lyman Smith,64,DT,1978,0,0,0,3,11,0,0,0,0,0,,,0,,,0,,,Duke
+1978,3,Jimmy Cefalo,81,WR,1984,0,0,1,21,90,0,0,0,0,0,,,0,93,1739,13,,,Penn St.
+1978,4,Gerald Small,93,DB,1984,0,0,5,38,104,0,0,0,0,0,,,0,,,0,24,,San Jose St.
+1978,4,Eric Laakso,106,T,1984,0,0,4,34,86,0,0,0,0,0,,,0,,,0,,,Tulane
+1978,5,Ted Burgmeier,111,DB,1978,0,0,0,2,8,0,0,0,0,0,,,0,,,0,,,Notre Dame
+1978,6,Doug Betters,163,DE,1987,1,1,7,61,146,0,0,0,0,0,,,0,,,0,,64.5,Nevada
+1978,7,Karl Baldischwiler,178,T,1986,0,0,7,40,118,0,0,0,0,0,,,0,,,0,,,Oklahoma
+1978,7,Lloyd Henry,190,WR,,0,0,0,,,,,,,,,,,,,,,,Truman St.
+1978,8,Sean Clancy,217,LB,1979,0,0,0,6,26,0,0,0,0,0,,,0,,,0,,,Amherst
+1978,9,Bruce Hardy,247,TE,1989,0,0,6,22,151,0,1,0,0,0,1,2,0,256,2455,25,,,Arizona St.
+1978,10,Mark Dennard,274,C,1985,0,0,4,28,91,0,0,0,0,0,,,0,,,0,,,Texas A&M
+1978,12,Mike Moore,331,RB,,0,0,0,,,,,,,,,,,,,,,,Middle Tenn. St.
+1978,12,Bill Kenney,333,QB,1988,0,1,7,50,106,1330,2430,17277,105,86,123,191,5,2,0,0,,,Northern Colorado
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1977,1,A.J. Duhe,13,LB,1984,0,1,7,48,108,0,0,0,0,0,,,0,,,0,3,38.5,LSU
+1977,2,Bob Baumhower,40,NT,1986,1,5,9,85,130,0,0,0,0,0,,,0,,,0,1,39.5,Alabama
+1977,3,Mike Watson,71,T,,0,0,0,,,,,,,,,,,,,,,,Miami (OH)
+1977,5,Mike Michel,113,P,1978,0,0,0,2,23,0,0,0,0,0,2,-2,0,,,0,,,Stanford
+1977,5,Leroy Harris,123,RB,1982,0,0,3,22,63,0,0,0,0,0,442,1813,13,72,571,1,,,Arkansas St.
+1977,7,Bruce Herron,180,LB,1982,0,0,0,8,71,0,0,0,0,0,,,0,,,0,,3.0,New Mexico
+1977,8,Horace Perkins,207,DB,1979,0,0,0,4,16,0,0,0,0,0,,,0,,,0,,,Colorado
+1977,9,Robert Turner,237,RB,1978,0,0,0,0,4,0,0,0,0,0,,,0,,,0,,,Oklahoma St.
+1977,10,Mark Carter,264,T,,0,0,0,,,,,,,,,,,,,,,,Eastern Michigan
+1977,11,John Alexander,291,DE,1978,0,0,0,5,12,0,0,0,0,0,,,0,,,0,,,Rutgers
+1977,12,Terry Anderson,321,WR,1980,0,0,0,0,29,0,0,0,0,0,1,11,0,1,56,0,,,Bethune-Cookman
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1976,1,Larry Gordon,17,LB,1982,0,0,7,48,100,0,0,0,0,0,,,0,,,0,8,17.0,Arizona St.
+1976,1,Kim Bokamper,19,DE,1985,0,1,8,50,127,0,0,0,0,0,,,0,,,0,6,40.0,San Jose St.
+1976,2,Loaird McCreary,49,TE,1979,0,0,0,1,55,0,0,0,0,0,,,0,8,95,3,,,Tennessee St.
+1976,3,Duriel Harris,80,WR,1985,0,0,5,53,127,0,0,0,0,0,3,33,0,302,5055,20,,,New Mexico St.
+1976,4,Melvin Mitchell,98,G,1980,0,0,0,10,34,0,0,0,0,0,,,0,,,0,,,Tennessee St.
+1976,6,Gary Davis,174,RB,1981,0,0,0,23,80,0,0,0,0,0,324,1410,7,83,671,1,,,Cal Poly-San Luis Obispo
+1976,7,Joe Ingersoll,185,G,,0,0,0,,,,,,,,,,,,,,,,UNLV
+1976,7,John Owens,200,DE,,0,0,0,,,,,,,,,,,,,,,,Tennessee St.
+1976,8,Bob Simpson,230,DE,1978,0,0,0,2,5,0,0,0,0,0,,,0,,,0,,1.0,Colorado
+1976,9,Norris Thomas,257,DB,1984,0,0,5,32,112,0,0,0,0,0,,,0,,,0,9,1.0,Southern Miss
+1976,10,Gary Fencik,281,DB,1987,1,2,10,78,164,0,0,0,0,0,,,0,,,0,38,4.0,Yale
+1976,10,Don Testerman,282,RB,1980,0,0,2,15,49,0,0,0,0,0,230,865,2,73,594,5,,,Clemson
+1976,11,Dexter Pride,312,RB,,0,0,0,,,,,,,,,,,,,,,,Minnesota
+1976,12,Randy Young,338,T,1976,0,0,0,2,9,0,0,0,0,0,,,0,,,0,,,Iowa St.
+1976,12,Darryl Brandford,341,DT,,0,0,0,,,,,,,,,,,,,,,,Northwestern
+1976,13,Bernie Head,366,C,,0,0,0,,,,,,,,,,,,,,,,Tulsa
+1976,14,Bob Gissler,396,LB,,0,0,0,,,,,,,,,,,,,,,,South Dakota St.
+1976,15,Ron Holmes,423,RB,,0,0,0,,,,,,,,,,,,,,,,Utah St.
+1976,16,Mike Green,450,K,,0,0,0,,,,,,,,,,,,,,,,Ohio
+1976,17,Jeff Grantz,480,QB,,0,0,0,,,,,,,,,,,,,,,,South Carolina
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1975,1,Darryl Carlton,23,T,1979,0,0,3,15,71,0,0,0,0,0,,,0,,,0,,,Tampa
+1975,2,Freddie Solomon,36,WR,1985,0,0,10,58,151,7,15,122,0,1,61,519,4,371,5846,48,,,Tampa
+1975,2,Stan Winfrey,49,RB,1977,0,0,0,3,30,0,0,0,0,0,55,215,1,6,55,1,,,Arkansas St.
+1975,3,Gerald Hill,75,LB,,0,0,0,,,,,,,,,,,,,,,,Houston
+1975,4,Bruce Elia,100,LB,1978,0,0,1,11,55,0,0,0,0,0,1,0,0,,,0,,2.0,Ohio St.
+1975,5,Morris Owens,106,WR,1979,0,0,4,16,62,0,0,0,0,0,4,0,0,116,2062,14,,,Arizona St.
+1975,5,Barry Hill,127,DB,1976,0,0,1,6,20,0,0,0,0,0,,,0,,,0,,,Iowa St.
+1975,6,Steve Towle,143,LB,1980,0,0,4,30,78,0,0,0,0,0,,,0,,,0,3,1.5,Kansas
+1975,7,Phillip Kent,179,RB,,0,0,0,,,,,,,,,,,,,,,,Baylor
+1975,8,Barney Crawford,205,DT,,0,0,0,,,,,,,,,,,,,,,,Harding
+1975,9,James Wilson,231,G,,0,0,0,,,,,,,,,,,,,,,,
+1975,10,Clyde Russell,239,RB,,0,0,0,,,,,,,,,,,,,,,,Oklahoma
+1975,10,Joe Jackson,256,TE,,0,0,0,,,,,,,,,,,,,,,,Penn St.
+1975,10,Joe Danelo,257,K,1984,0,0,0,21,136,0,0,0,0,0,,,0,1,1,0,,,Washington St.
+1975,11,John Dilworth,283,DB,,0,0,0,,,,,,,,,,,,,,,,
+1975,12,Joe Yancey,309,T,,0,0,0,,,,,,,,,,,,,,,,Henderson St.
+1975,13,Leonard Isabell,334,WR,,0,0,0,,,,,,,,,,,,,,,,Tulsa
+1975,14,James Lewis,338,DB,,0,0,0,,,,,,,,,,,,,,,,Tennessee St.
+1975,14,John Graham,361,QB,,0,0,0,,,,,,,,,,,,,,,,Colorado St.
+1975,15,Skip Johns,387,RB,,0,0,0,,,,,,,,,,,,,,,,Carson-Newman
+1975,16,Vernon Smith,413,C,,0,0,0,,,,,,,,,,,,,,,,Georgia
+1975,17,Dwaine Copeland,439,RB,,0,0,0,,,,,,,,,,,,,,,,Middle Tenn. St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1974,1,Don Reese,26,DT,1981,0,0,3,23,88,0,0,0,0,0,,,0,,,0,,30.5,Jackson St.
+1974,2,Andre Tillman,38,TE,1978,0,0,4,11,58,0,0,0,0,0,,,0,66,757,6,,,Texas Tech
+1974,2,Benny Malone,47,RB,1979,0,0,3,30,82,0,0,0,0,0,706,2693,19,33,400,1,,,Arizona St.
+1974,2,Jeris White,52,DB,1982,0,0,5,48,129,0,0,0,0,0,,,0,,,0,19,1.5,Hawaii
+1974,3,Nat Moore,78,WR,1986,1,1,9,79,183,1,2,31,0,0,40,249,1,510,7546,74,,,Florida
+1974,4,Bill Stevenson,104,DB,,0,0,0,,,,,,,,,,,,,,,,Drake
+1974,5,Cleveland Vann,130,LB,,0,0,0,,,,,,,,,,,,,,,,Oklahoma St.
+1974,6,Randy Crowder,136,DT,1980,0,0,3,25,71,0,0,0,0,0,,,0,,,0,,19.0,Penn St.
+1974,6,Bob Wolfe,156,T,,0,0,0,,,,,,,,,,,,,,,,Nebraska
+1974,7,Carl Swierc,164,WR,,0,0,0,,,,,,,,,,,,,,,,Rice
+1974,7,Joe Sullivan,182,G,,0,0,0,,,,,,,,,,,,,,,,Boston Col.
+1974,8,Melvin Baker,208,WR,1976,0,0,0,2,21,0,0,0,0,0,2,23,0,9,179,2,,,Texas Southern
+1974,9,Tom Wickert,212,T,1977,0,0,1,8,27,0,0,0,0,0,,,0,,,0,,,Washington St.
+1974,9,Bob Lally,234,LB,1976,0,0,0,1,2,0,0,0,0,0,,,0,,,0,,,Cornell
+1974,10,Gary Valbuena,260,QB,,0,0,0,,,,,,,,,,,,,,,,Tennessee
+1974,11,Gerry Roberts,286,DE,,0,0,0,,,,,,,,,,,,,,,,UCLA
+1974,12,Jim Revels,312,DB,,0,0,0,,,,,,,,,,,,,,,,Florida
+1974,13,Clayton Heath,338,RB,1976,0,0,0,0,8,0,0,0,0,0,1,0,0,,,0,,,Wake Forest
+1974,14,Sam Johnson,364,LB,,0,0,0,,,,,,,,,,,,,,,,Arizona St.
+1974,15,Larry Cates,390,DB,,0,0,0,,,,,,,,,,,,,,,,Western Michigan
+1974,16,Jessie Wolf,416,DT,,0,0,0,,,,,,,,,,,,,,,,Prairie View A&M
+1974,17,Ken Dickerson,442,DB,,0,0,0,,,,,,,,,,,,,,,,Tuskegee
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1973,2,Chuck Bradley,52,TE,1977,0,0,0,0,19,0,0,0,0,0,,,0,2,49,0,,,Oregon
+1973,3,Leon Gray,78,T,1983,3,4,8,69,142,0,0,0,0,0,,,0,,,0,,,Jackson St.
+1973,4,Bo Rather,104,WR,1978,0,0,3,14,64,0,1,0,0,0,9,46,0,92,1467,7,,,Michigan
+1973,5,Don Strock,111,QB,1988,0,0,0,18,167,443,779,5349,45,42,57,18,2,,,0,,,Virginia Tech
+1973,5,Dave McCurry,130,DB,1974,0,0,0,1,2,0,0,0,0,0,,,0,,,0,,,Iowa St.
+1973,6,Ed Newman,156,G,1984,1,4,6,77,167,0,0,0,0,0,,,0,,,0,,,Duke
+1973,7,Kevin Reilly,160,LB,1975,0,0,0,7,25,0,0,0,0,0,,,0,,,0,1,,Villanova
+1973,7,Benny Shepherd,163,RB,,0,0,0,,,,,,,,,,,,,,,,Arkansas Tech
+1973,7,Willie Hatter,178,WR,,0,0,0,,,,,,,,,,,,,,,,Northern Illinois
+1973,7,Thomas Smith,182,RB,1973,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,Miami (FL)
+1973,8,Archie Pearmon,208,DE,,0,0,0,,,,,,,,,,,,,,,,NE State (OK)
+1973,9,Karl Lorch,234,DE,1981,0,0,3,28,90,0,0,0,0,0,,,0,,,0,1,25.5,USC
+1973,10,Ron Fernandes,260,DE,1979,0,0,1,12,40,0,0,0,0,0,,,0,,,0,,10.5,Eastern Michigan
+1973,11,Chris Kete,286,C,,0,0,0,,,,,,,,,,,,,,,,Boston Col.
+1973,12,Mike Mullen,312,LB,,0,0,0,,,,,,,,,,,,,,,,Tulane
+1973,13,Joe Booker,338,RB,,0,0,0,,,,,,,,,,,,,,,,Miami (OH)
+1973,14,Greg Boyd,364,DB,1974,0,0,0,3,6,0,0,0,0,0,,,0,,,0,,,Arizona
+1973,15,Bill Palmer,389,TE,,0,0,0,,,,,,,,,,,,,,,,St. Thomas
+1973,16,James Jackson,416,DE,,0,0,0,,,,,,,,,,,,,,,,Norfolk St.
+1973,17,Charlie Wade,442,WR,1977,0,0,1,6,21,0,0,0,0,0,1,-15,0,39,683,1,,,Tennessee St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1972,1,Mike Kadish,25,DT,1981,0,0,6,29,127,0,0,0,0,0,,,0,,,0,,30.5,Notre Dame
+1972,3,Gary Kosins,77,RB,1974,0,0,0,1,40,0,0,0,0,0,35,100,1,7,26,1,,,Dayton
+1972,4,Larry Ball,91,LB,1978,0,0,0,22,79,0,0,0,0,0,,,0,,,0,2,6.0,Louisville
+1972,4,Al Benton,103,T,,0,0,0,,,,,,,,,,,,,,,,Ohio
+1972,5,Charlie Babb,129,DB,1979,0,0,2,31,97,0,0,0,0,0,,,0,,,0,12,2.5,Memphis
+1972,6,Ray Nettles,155,LB,,0,0,0,,,,,,,,,,,,,,,,Tennessee
+1972,7,Bill Adams,161,G,1978,0,0,0,14,46,0,0,0,0,0,,,0,,,0,,,Holy Cross
+1972,7,Calvin Harrell,180,RB,,0,0,0,,,,,,,,,,,,,,,,Arkansas St.
+1972,8,Craig Curry,207,QB,,0,0,0,,,,,,,,,,,,,,,,Minnesota
+1972,9,Greg Johnson,233,DB,,0,0,0,,,,,,,,,,,,,,,,Wisconsin
+1972,11,Ed Jenkins,285,RB,1974,0,0,0,0,15,0,0,0,0,0,,,0,1,12,0,,,Holy Cross
+1972,12,Ashley Bell,311,TE,,0,0,0,,,,,,,,,,,,,,,,Purdue
+1972,13,Archie Robinson,337,DB,,0,0,0,,,,,,,,,,,,,,,,Hillsdale
+1972,14,Willie Jones,362,LB,,0,0,0,,,,,,,,,,,,,,,,Tampa
+1972,15,Bill Davis,389,DT,,0,0,0,,,,,,,,,,,,,,,,William & Mary
+1972,16,Al Hannah,415,WR,,0,0,0,,,,,,,,,,,,,,,,Wisconsin
+1972,17,Vern Brown,441,DB,,0,0,0,,,,,,,,,,,,,,,,Western Michigan
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1971,2,Otto Stowe,47,WR,1974,0,0,1,12,36,0,0,0,0,0,4,29,0,43,742,10,,,Iowa St.
+1971,3,Dale Farley,74,LB,1973,0,0,0,5,13,0,0,0,0,0,,,0,,,0,1,,West Virginia
+1971,4,Joe Theismann,99,QB,1985,1,2,8,89,167,2044,3602,25206,160,138,355,1815,17,,,0,,,Notre Dame
+1971,6,Dennis Coleman,151,LB,1971,0,0,0,3,9,0,0,0,0,0,,,0,,,0,,,Mississippi
+1971,7,Ron Dickerson,178,DB,,0,0,0,,,,,,,,,,,,,,,,Kansas St.
+1971,9,Vern Den Herder,230,DE,1982,0,0,10,68,166,0,0,0,0,0,,,0,1,7,1,1,65.0,Central College (IA)
+1971,10,Ron Maree,255,DT,,0,0,0,,,,,,,,,,,,,,,,Purdue
+1971,11,Vic Surma,282,T,,0,0,0,,,,,,,,,,,,,,,,Penn St.
+1971,12,Leroy Byars,307,RB,,0,0,0,,,,,,,,,,,,,,,,Alcorn St.
+1971,13,Lonnie Hepburn,333,DB,1974,0,0,1,9,31,0,0,0,0,0,,,0,,,0,1,,Texas Southern
+1971,14,David Vaughn,359,TE,,0,0,0,,,,,,,,,,,,,,,,Memphis
+1971,15,Bob Richards,386,G,,0,0,0,,,,,,,,,,,,,,,,California
+1971,16,Chris Myers,410,WR,,0,0,0,,,,,,,,,,,,,,,,Kenyon
+1971,17,Curt Mark,437,LB,,0,0,0,,,,,,,,,,,,,,,,Mayville St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1970,2,Jim Mandich,29,TE,1978,0,0,1,22,119,0,0,0,0,0,,,0,121,1406,23,,,Michigan
+1970,3,Tim Foley,55,DB,1980,0,1,8,55,134,0,0,0,0,0,,,0,,,0,22,,Purdue
+1970,4,Curtis Johnson,81,DB,1978,0,0,9,52,125,0,0,0,0,0,,,0,,,0,22,1.0,Toledo
+1970,6,Dave Campbell,132,DE,,0,0,0,,,,,,,,,,,,,,,,Auburn
+1970,7,Jake Scott,159,DB,1978,2,5,9,88,126,0,0,0,0,0,,,0,,,0,49,0.5,Georgia
+1970,8,Narvel Chavers,185,RB,,0,0,0,,,,,,,,,,,,,,,,Jackson St.
+1970,9,Hubert Ginn,211,RB,1978,0,0,0,6,90,0,0,0,0,0,132,521,3,9,49,0,,,Florida A&M
+1970,10,Dick Nittenger,237,G,,0,0,0,,,,,,,,,,,,,,,,Tampa
+1970,11,Brownie Wheless,263,T,,0,0,0,,,,,,,,,,,,,,,,Rice
+1970,12,Mike Kolen,289,LB,1977,0,0,6,40,84,0,0,0,0,0,,,0,,,0,5,2.0,Auburn
+1970,13,Dave Buddington,315,RB,,0,0,0,,,,,,,,,,,,,,,,Springfield
+1970,14,Gary Brackett,341,G,,0,0,0,,,,,,,,,,,,,,,,Holy Cross
+1970,15,Pat Hauser,367,WR,,0,0,0,,,,,,,,,,,,,,,,East Tennessee St.
+1970,16,Charlie Williams,393,G,,0,0,0,,,,,,,,,,,,,,,,Tennessee St.
+1970,17,George Myles,419,DT,,0,0,0,,,,,,,,,,,,,,,,Morris Brown
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1969,1,Bill Stanfill,11,DE,1976,1,5,7,65,109,0,0,0,0,0,,,0,,,0,2,69.5,Georgia
+1969,2,Bob Heinz,37,DT,1978,0,0,4,32,111,0,0,0,0,0,,,0,,,0,,9.0,Pacific
+1969,3,Mercury Morris,63,RB,1976,0,3,3,50,99,0,0,0,0,0,804,4133,31,54,543,1,,,West Texas A&M
+1969,4,Norm McBride,89,DE,1970,0,0,0,2,10,0,0,0,0,0,,,0,,,0,,,Utah
+1969,5,Willie Pearson,115,DB,1969,0,0,0,2,5,0,0,0,0,0,,,0,,,0,,,North Carolina A&T
+1969,5,Karl Kremser,128,K,1970,0,0,0,3,15,0,0,0,0,0,,,0,,,0,,,Tennessee
+1969,6,Ed Tuck,141,G,,0,0,0,,,,,,,,,,,,,,,,Notre Dame
+1969,7,John Egan,167,C,,0,0,0,,,,,,,,,,,,,,,,Boston Col.
+1969,7,John Kulka,174,C,,0,0,0,,,,,,,,,,,,,,,,Penn St.
+1969,8,Bruce Weinstein,193,TE,,0,0,0,,,,,,,,,,,,,,,,Yale
+1969,9,Jesse Powell,219,LB,1973,0,0,0,15,56,0,0,0,0,0,,,0,,,0,,1.0,West Texas A&M
+1969,10,Jim Mertens,245,TE,1969,0,0,0,0,14,0,0,0,0,0,,,0,2,26,0,,,Fairmont St.
+1969,11,Mike Berdis,271,T,,0,0,0,,,,,,,,,,,,,,,,North Dakota St.
+1969,12,Dale McCullers,297,LB,1969,0,0,0,4,14,0,0,0,0,0,,,0,,,0,,1.0,Florida St.
+1969,13,Amos Ayres,323,DB,,0,0,0,,,,,,,,,,,,,,,,Ark-Pine Bluff
+1969,14,Glenn Thompson,349,T,,0,0,0,,,,,,,,,,,,,,,,Troy
+1969,15,Chick McGeehan,375,FL,,0,0,0,,,,,,,,,,,,,,,,Tennessee
+1969,16,Lloyd Mumphord,401,DB,1978,0,0,4,36,122,0,0,0,0,0,,,0,,,0,21,2.0,Texas Southern
+1969,17,Tom Krallman,427,DE,,0,0,0,,,,,,,,,,,,,,,,
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1968,1,Larry Csonka HOF,8,RB,1979,2,5,11,75,146,0,0,0,0,0,1891,8081,64,106,820,4,,,Syracuse
+1968,1,Doug Crusan,27,T,1974,0,0,5,31,82,0,0,0,0,0,,,0,,,0,,,Indiana
+1968,2,Jimmy Keyes,35,LB,1969,0,0,0,5,17,0,0,0,0,0,,,0,,,0,,,Mississippi
+1968,2,Jim Cox,54,TE,1968,0,0,0,2,13,0,0,0,0,0,,,0,11,147,0,,,Miami (FL)
+1968,3,Jim Urbanek,62,DT,1968,0,0,0,2,8,0,0,0,0,0,,,0,,,0,,,Mississippi
+1968,3,Dick Anderson,73,DB,1977,2,3,7,73,121,0,0,0,0,0,,,0,1,8,0,34,2.0,Colorado
+1968,5,Jim Kiick,118,RB,1977,0,2,5,62,115,2,3,38,0,0,1029,3759,29,233,2302,4,,,Wyoming
+1968,6,Kim Hammond,142,QB,1969,0,0,0,0,6,15,32,147,0,2,1,0,0,,,0,,,Florida St.
+1968,6,Jimmy Hines,146,WR,1970,0,0,0,0,10,0,0,0,0,0,1,7,0,2,23,0,,,Texas Southern
+1968,7,John Boynton,172,T,1969,0,0,0,2,14,0,0,0,0,0,,,0,,,0,,,Tennessee
+1968,8,Randy Edmunds,217,LB,1972,0,0,2,15,45,0,0,0,0,0,,,0,,,0,1,6.0,Georgia Tech
+1968,9,Sam McDowell,226,T,,0,0,0,,,,,,,,,,,,,,,,Missouri State
+1968,9,Tom Paciorek,240,DB,,0,0,0,,,,,,,,,,,,,,,,Houston
+1968,10,Joe Mirto,253,T,,0,0,0,,,,,,,,,,,,,,,,Miami (FL)
+1968,11,Cornelius Cooper,280,T,,0,0,0,,,,,,,,,,,,,,,,Prairie View A&M
+1968,12,Paul Paxton,307,T,,0,0,0,,,,,,,,,,,,,,,,Akron
+1968,13,Bob Joswick,334,DE,1969,0,0,0,2,6,0,0,0,0,0,,,0,,,0,,,Tulsa
+1968,14,Ray Blunk,362,TE,,0,0,0,,,,,,,,,,,,,,,,
+1968,15,Ken Corbin,388,LB,,0,0,0,,,,,,,,,,,,,,,,Miami (FL)
+1968,16,Henry Still,416,DT,,0,0,0,,,,,,,,,,,,,,,,Bethune-Cookman
+1968,17,Bill Nemeth,442,C,,0,0,0,,,,,,,,,,,,,,,,Arizona
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1967,1,Bob Griese HOF,4,QB,1980,2,8,12,104,161,1926,3429,25092,192,172,261,994,7,,,0,,,Purdue
+1967,2,Jim Riley,29,DE,1971,0,0,4,28,68,0,0,0,0,0,,,0,,,0,,15.0,Oklahoma
+1967,4,Bob Greenlee,84,T,,0,0,0,,,,,,,,,,,,,,,,Yale
+1967,5,Gary Tucker,129,RB,1968,0,0,0,0,14,0,0,0,0,0,4,13,0,,,0,,,Chattanooga
+1967,6,Bud Norris,138,TE,,0,0,0,,,,,,,,,,,,,,,,Washington St.
+1967,7,Larry Seiple,163,TE,1977,0,0,1,28,150,3,3,69,0,0,16,159,0,73,934,7,,,Kentucky
+1967,9,John Richardson,216,DT,1973,0,0,5,28,88,0,0,0,0,0,,,0,,,0,,15.0,UCLA
+1967,10,Tom Beier,241,DB,1969,0,0,0,5,28,0,0,0,0,0,,,0,1,19,0,2,,Miami (FL)
+1967,11,Jack Pyburn,266,T,1968,0,0,0,6,23,0,0,0,0,0,,,0,,,0,,,Texas A&M
+1967,12,Stan Juk,294,LB,,0,0,0,,,,,,,,,,,,,,,,South Carolina
+1967,12,Jim Whitaker,295,DB,,0,0,0,,,,,,,,,,,,,,,,Missouri
+1967,14,Charles Stikes,344,DB,,0,0,0,,,,,,,,,,,,,,,,Kent St.
+1967,15,Jake Ferro,372,LB,,0,0,0,,,,,,,,,,,,,,,,Youngstown St.
+1967,16,Maurice Calhoun,397,FB,,0,0,0,,,,,,,,,,,,,,,,
+1967,17,Larry Kissam,422,T,,0,0,0,,,,,,,,,,,,,,,,Florida St.
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ
+1966,1,Jim Grabowski,1,RB,1971,0,0,5,19,75,0,0,0,0,0,475,1731,8,82,675,3,,,Illinois
+1966,1,Rick Norton,2,QB,1970,0,0,0,6,32,159,382,1815,7,30,19,41,0,,,0,,,Kentucky
+1966,2,Frank Emanuel,9,LB,1970,0,0,2,15,59,0,0,0,0,0,,,0,,,0,4,2.5,Tennessee
+1966,3,Larry Gagner,18,G,1972,0,0,4,21,59,0,0,0,0,0,,,0,,,0,,,Florida
+1966,4,Dick Leftridge,26,FB,1966,0,0,0,0,4,0,0,0,0,0,8,17,2,,,0,,,West Virginia
+1966,5,Grady Bolton,34,T,,0,0,0,,,,,,,,,,,,,,,,Mississippi St.
+1966,6,Ed Weisacosky,42,LB,1972,0,0,3,19,67,0,0,0,0,0,,,0,,,0,3,4.0,Miami (FL)
+1966,7,Don Hansen,51,LB,1977,0,0,8,53,142,0,0,0,0,0,,,0,,,0,10,6.0,Illinois
+1966,8,Bob Petrella,64,DB,1971,0,0,2,15,61,0,0,0,0,0,,,0,,,0,5,,Tennessee
+1966,9,Bill Matan,74,DE,1966,0,0,0,1,3,0,0,0,0,0,,,0,,,0,,,Kansas St.
+1966,10,Pat Killorin,83,C,1966,0,0,0,2,5,0,0,0,0,0,,,0,,,0,,,Syracuse
+1966,11,Sammy Price,92,RB,1968,0,0,1,3,36,0,0,0,0,0,82,313,1,10,70,1,,,Illinois
+1966,12,Howard Twilley,101,WR,1976,0,0,5,36,120,0,0,0,0,0,,,0,212,3064,23,,,Tulsa
+1966,13,Kent Kramer,110,TE,1974,0,0,2,6,97,0,0,0,0,0,,,0,45,576,8,,,Minnesota
+1966,14,Phil Scoggin,119,K,,0,0,0,,,,,,,,,,,,,,,,Texas A&M
+1966,15,Jerry Oliver,128,T,,0,0,0,,,,,,,,,,,,,,,,Texas St.
+1966,16,Don Lorenz,137,DE,,0,0,0,,,,,,,,,,,,,,,,S.F. Austin
+1966,17,Mike Bender,146,G,,0,0,0,,,,,,,,,,,,,,,,Arkansas
+1966,18,Rich Kestner,155,E,,0,0,0,,,,,,,,,,,,,,,,Kentucky
+1966,19,Doug Moreau,164,TE,1969,0,0,2,9,33,0,0,0,0,0,1,-2,0,73,926,6,,,LSU
+1966,20,John Tooker,173,DB,,0,0,0,,,,,,,,,,,,,,,,Adams St.

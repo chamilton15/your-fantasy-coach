@@ -1,0 +1,30 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23
+,Games,Passing,Rushing,Receiving,,,,,,,,,,,,,,,,,,
+Rk,Pos,Player,Tm,Vote Pts,1st Place,Share,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Sk,Int
+1,QB,Joe Burrow,Cincinnati Bengals,370.0,31,74%,17,17,460,652,4918,43,9,42,201,2,0,0,0,0,0.0,0
+2,RB,J.K. Dobbins,Los Angeles Chargers,195.0,3,39%,13,11,0,0,0,0,0,195,905,9,32,153,0,0,0.0,0
+3,QB,Sam Darnold,Minnesota Vikings,102.0,8,20.4%,17,17,361,545,4319,35,12,67,212,1,0,0,0,0,0.0,0
+4,S,Damar Hamlin,Buffalo Bills,86.0,3,17.2%,14,14,0,0,0,0,0,0,0,0,0,0,0,62,0.0,2
+5,CB,Christian Gonzalez,New England Patriots,69.0,2,13.8%,16,16,0,0,0,0,0,0,0,0,0,0,0,50,0.0,2
+6,WR,Tim Patrick,Detroit Lions,67.0,3,13.4%,16,9,0,0,0,0,0,0,0,0,33,394,3,0,0.0,0
+7,QB,Aaron Rodgers,New York Jets,30.0,0,6%,17,17,368,584,3897,28,11,22,107,0,0,0,0,0,0.0,0
+8,RB,Nick Chubb,Cleveland Browns,28.0,0,5.6%,8,8,0,0,0,0,0,102,332,3,5,31,1,0,0.0,0
+9,DT,Cameron Heyward,Pittsburgh Steelers,24.0,0,4.8%,17,17,0,0,0,0,0,0,0,0,0,0,0,35,8.0,0
+10,QB,Kyler Murray,Arizona Cardinals,21.0,0,4.2%,17,17,372,541,3851,21,11,78,572,5,0,0,0,0,0.0,0
+11,QB,Kirk Cousins,Atlanta Falcons,8.0,0,1.6%,14,14,303,453,3508,18,16,23,0,0,0,0,0,0,0.0,0
+12,S,C.J. Gardner-Johnson,Philadelphia Eagles,8.0,0,1.6%,16,16,0,0,0,0,0,0,0,0,0,0,0,35,0.0,6
+13,QB,Justin Herbert,Los Angeles Chargers,7.0,0,1.4%,17,17,332,504,3870,23,3,69,306,2,0,0,0,0,0.0,0
+14,QB,Russell Wilson,Pittsburgh Steelers,5.0,0,1%,11,11,214,336,2482,16,5,43,155,2,0,0,0,0,0.0,0
+15,RB,Saquon Barkley,Philadelphia Eagles,5.0,0,1%,16,16,0,0,0,0,0,345,2005,13,33,278,2,0,0.0,0
+16,FS,Tony Jefferson,Los Angeles Chargers,4.0,0,0.8%,8,4,0,0,0,0,0,0,0,0,0,0,0,17,0.0,0
+17,TE,Zach Ertz,Washington Commanders,3.0,0,0.6%,17,17,0,0,0,0,0,0,0,0,66,654,7,0,0.0,0
+18,LB,Nakobe Dean,Philadelphia Eagles,3.0,0,0.6%,15,15,0,0,0,0,0,0,0,0,0,0,0,80,3.0,1
+19,RB,Jonathan Taylor,Indianapolis Colts,2.0,0,0.4%,14,13,0,0,0,0,0,303,1431,11,18,136,1,0,0.0,0
+20,WR,Jameson Williams,Detroit Lions,2.0,0,0.4%,15,11,0,0,0,0,0,11,61,1,58,1001,7,0,0.0,0
+21,OLB,Dre Greenlaw,San Francisco 49ers,2.0,0,0.4%,2,2,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0
+22,TE,T.J. Hockenson,Minnesota Vikings,2.0,0,0.4%,10,9,0,0,0,0,0,0,0,0,41,455,0,0,0.0,0
+23,RB,Cam Akers,2TM,2.0,0,0.4%,17,2,0,0,0,0,0,104,444,2,14,68,3,0,0.0,0
+24,TE,Mark Andrews,Baltimore Ravens,2.0,0,0.4%,17,13,0,0,0,0,0,4,5,0,55,673,11,0,0.0,0
+25,CB,Marlon Humphrey,Baltimore Ravens,1.0,0,0.2%,16,16,0,0,0,0,0,0,0,0,0,0,0,50,0.5,6
+26,QB,Anthony Richardson,Indianapolis Colts,1.0,0,0.2%,11,11,126,264,1814,8,12,86,499,6,1,-1,0,0,0.0,0
+27,T,Jack Conklin,Cleveland Browns,1.0,0,0.2%,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0

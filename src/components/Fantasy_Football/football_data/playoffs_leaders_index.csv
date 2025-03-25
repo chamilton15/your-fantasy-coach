@@ -1,0 +1,164 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Approx Val,,,,,,,,,,,
+Approximate Value,Single-Season,Career,Active,Year-by-Year,,,,,,,
+Approximate Value (Weighted),,Career,Active,,,,,,,,
+Awards,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Pro Bowl Selct.,,Career,Active,,,,,,,,
+All-Pro 1st Team Selct.,,Career,Active,,,,,,,,
+AP MVP Awards,,Career,Active,,,,,,,,
+AP MVP Shares,,Career,Active,,,,,,,,
+AP OPOY Shares,,Career,Active,,,,,,,,
+AP DPOY Shares,,Career,Active,,,,,,,,
+Passing,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Passes Completed,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Pass Attempts,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Passing Yds,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Passing TD,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Passer Rating,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Long Pass,Single-Season,,,Year-by-Year,Single Game,,Single-Season,,,Year-by-Year,Single Game
+Passes Intercepted,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Sacked,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Sacked Yds Lost,Single-Season,Career,Active,Year-by-Year,,,,,,,
+Pick Sixes,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Passing Yds/Game,Single-Season,Career,Active,Year-by-Year,,,Single-Season,Career,Active,Year-by-Year,
+Yds/Pass Att,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Yds/Pass Cmp,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Pass Attempts/Game,Single-Season,Career,Active,Year-by-Year,,,Single-Season,Career,Active,Year-by-Year,
+Adj Yds/Pass Att,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Net Yds/Pass Att,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Adj Net Yds/Pass Att,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Passes Completed/Game,Single-Season,Career,Active,Year-by-Year,,,Single-Season,Career,Active,Year-by-Year,
+Pass Completion %,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Pass Intercept. %,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Passing TD %,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Sack %,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+QBR,Single-Season,,,Year-by-Year,,,,,,,
+Game-Winning Drives,Single-Season,Career,Active,Year-by-Year,,,Single-Season,Career,Active,Year-by-Year,
+Comebacks,Single-Season,Career,Active,Year-by-Year,,,Single-Season,Career,Active,Year-by-Year,
+Adjusted Passing,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Pass Completion % Idx,Single-Season,,,Year-by-Year,,,,,,,
+Yds/Pass Att Idx,Single-Season,,,Year-by-Year,,,,,,,
+Adj Yds/Pass Att Idx,Single-Season,,,Year-by-Year,,,,,,,
+Net Yds/Pass Att Idx,Single-Season,,,Year-by-Year,,,,,,,
+Adj Net Yds/Pass Att Idx,Single-Season,,,Year-by-Year,,,,,,,
+Pass Intercept. % Idx,Single-Season,,,Year-by-Year,,,,,,,
+Sack % Idx,Single-Season,,,Year-by-Year,,,,,,,
+Passing TD % Idx,Single-Season,,,Year-by-Year,,,,,,,
+Passer Rating Idx,Single-Season,,,Year-by-Year,,,,,,,
+Rushing,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Rushing Att,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Rushing Yds,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Rushing TD,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Long Rush,Single-Season,,,Year-by-Year,Single Game,,Single-Season,,,Year-by-Year,Single Game
+Yds/Rushing Att,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Rushing Yds/Game,Single-Season,Career,Active,Year-by-Year,,,Single-Season,Career,Active,Year-by-Year,
+Receiving,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Receptions,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Receiving Yds,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Receiving TD,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Long Reception,Single-Season,,,Year-by-Year,Single Game,,Single-Season,,,Year-by-Year,Single Game
+Yds/Reception,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Receiving Yds/Game,Single-Season,Career,Active,Year-by-Year,,,Single-Season,Career,Active,Year-by-Year,
+Scoring & Other Offense,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Touchdowns,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Points Scored,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Rushing/Receiving TD,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Non-Offensive TDs,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+2-pt. Conv. Made,,Career,Active,,Single Game,,,Career,Active,,Single Game
+Yds From Scrimmage,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+All-Purpose Yds,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Total Offense,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Touches,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Yds/Touch,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Punt & Kick Returns,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Kick Returns,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Kick Return Yds,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Kick Return TD,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Long Kick Return,Single-Season,,,Year-by-Year,Single Game,,Single-Season,,,Year-by-Year,Single Game
+Yds/Kick Return,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Punt Returns,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Punt Return Yds,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Punt Return TD,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Long Punt Return,Single-Season,,,Year-by-Year,,,Single-Season,,,Year-by-Year,
+Yds/Punt Return,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Kick & Punt Returns,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Kick & Punt Return Yds,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Games Played,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Games,,Career,Active,,,,,Career,Active,,
+Games Started,,Career,Active,,,,,Career,Active,,
+Most Franchises Played For,,Career,Active,,,,,,,,
+Kicking,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Extra Pt Made,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Extra Pt Att,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Extra Point %,,Career,Active,,Single Game,,,Career,Active,,Single Game
+Field Goals Made,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Field Goals Att,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Field Goal %,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Tot,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Long FGM,Single-Season,,,Year-by-Year,Single Game,,Single-Season,,,Year-by-Year,Single Game
+Punting,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Punts,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Punting Yds,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Long Punt,Single-Season,,,Year-by-Year,Single Game,,Single-Season,,,Year-by-Year,Single Game
+Punts Blocked,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Yds/Punt,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Fumbles,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Fumbles,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Fumbles Recovered,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Fumble Return Yds,Single-Season,Career,Active,Year-by-Year,,,Single-Season,Career,Active,Year-by-Year,
+Fumble Return TD,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Defensive Interceptions,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Interceptions,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Intercept. Ret. Yds,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Intercept. Ret. TD,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Long Intercep. Return,Single-Season,,,Year-by-Year,Single Game,,Single-Season,,,Year-by-Year,Single Game
+Defense,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Tackles Solo,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Tackles Combined,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Tackles For Loss,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Fumbles,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Fumbles Forced,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Defensive Interceptions,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Passes Defended,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Sacks,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Sacks,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game
+Defense,,,,,,,,,,,
+,Regular Season Leaders,,Playoffs Leaders,,,,,,,,
+Statistic,Single Season,Career,Active,Year by Year,Single Game,,Single Season,Career,Active,Year by Year,Single Game
+Safeties,Single-Season,Career,Active,Year-by-Year,Single Game,,Single-Season,Career,Active,Year-by-Year,Single Game

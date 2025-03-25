@@ -1,0 +1,6 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21
+,Rushing,Passing,,,,,,,,,,,,,,,,,,
+Score Differential,#Pl,ToGo,Yds,Att,Yds,Y/A,TD,1D,Cmp,Att,Cmp%,Yds,Y/A,TD,Int,Sk,1D,Rate,ANY/A,
+Leading,12002,8.45,5.78,6079,27058,4.5,370,1525,3776,5583,67.6,44462,8.0,526,91,340,2132,116.2,8.6,All 2024 plays when Leading
+Tied,5889,8.54,5.21,2676,11749,4.4,11,615,1971,2989,65.9,20400,6.8,19,54,224,980,80.1,5.7,All 2024 plays when Tied
+Trailing,15920,8.55,5.25,5929,26366,4.4,130,1542,5882,9239,63.7,62162,6.7,264,242,750,2992,81.8,5.7,All 2024 plays when Trailing

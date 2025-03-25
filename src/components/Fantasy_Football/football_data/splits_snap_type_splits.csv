@@ -1,0 +1,7 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20
+,Rushing,Passing,,,,,,,,,,,,,,,,,
+Snap Type & Huddle,#Pl,ToGo,Yds,Att,Yds,Y/A,TD,1D,Cmp,Att,Cmp%,Yds,Y/A,TD,Int,Sk,1D,Rate,ANY/A
+No Huddle,3912,7.56,5.50,1411,6707,4.8,57,522,1509,2328,64.8,15851,6.8,59,44,172,821,85.0,6.0
+Huddle,29899,8.63,5.42,13273,58466,4.4,454,3160,10120,15483,65.4,111173,7.2,750,343,1142,5283,93.4,6.7
+Shotgun,21369,8.80,5.69,5965,30258,5.1,194,1613,9293,14294,65,98733,6.9,620,318,1108,4741,90.2,6.3
+Under Center,12442,8.01,4.97,8719,34915,4.0,317,2069,2336,3517,66.4,28291,8.0,189,69,206,1363,100.7,7.8

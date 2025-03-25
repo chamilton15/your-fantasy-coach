@@ -1,0 +1,7 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21
+,Rushing,Passing,,,,,,,,,,,,,,,,,,
+Down,#Pl,ToGo,Yds,Att,Yds,Y/A,TD,1D,Cmp,Att,Cmp%,Yds,Y/A,TD,Int,Sk,1D,Rate,ANY/A,
+1st,14935,9.97,5.49,7976,34951,4.4,238,1010,4479,6610,67.8,49095,7.4,238,130,348,1926,93.3,6.9,All 2024 plays on 1st down
+2nd,11228,7.79,5.46,4643,20935,4.5,172,1527,4186,6180,67.7,42943,6.9,266,122,404,2160,93.6,6.5,All 2024 plays on 2nd down
+3rd,6882,7.05,5.30,1758,8122,4.6,83,922,2723,4595,59.3,32153,7.0,257,118,529,1806,88.6,6.2,All 2024 plays on 3rd down
+4th,766,3.74,4.93,307,1165,3.8,18,223,241,426,56.6,2833,6.7,48,17,33,212,97.9,6.6,All 2024 plays on 4th down

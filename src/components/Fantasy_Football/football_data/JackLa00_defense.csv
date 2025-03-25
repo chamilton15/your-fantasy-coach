@@ -1,0 +1,12 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23,Column_24,Column_25
+,Def Interceptions,Fumbles,,Tackles,,,,,,,,,,,,,,,,,,,,
+Season,Age,Team,Lg,Pos,G,GS,Int,Yds,IntTD,Lng,PD,FF,Fmb,FR,Yds,FRTD,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty,Awards
+2018,21,BAL,NFL,QB,16,7,0,0,0,0,0,1,12,5,-21,0,0.0,0,0,0,0,0,0,
+2019,22,BAL,NFL,QB,15,15,0,0,0,0,0,0,9,4,-3,0,0.0,0,0,0,0,0,0,"PB,AP-1,AP MVP-1,AP OPoY-2"
+2020,23,BAL,NFL,QB,15,15,0,0,0,0,0,0,10,4,-9,0,0.0,0,0,0,0,0,0,
+2021,24,BAL,NFL,QB,12,12,0,0,0,0,0,0,6,2,9,0,0.0,0,0,0,0,0,0,PB
+2022,25,BAL,NFL,QB,12,12,0,0,0,0,0,0,5,2,-5,0,0.0,1,1,0,0,0,0,
+2023,26,BAL,NFL,QB,16,16,0,0,0,0,0,0,11,4,-7,0,0.0,0,0,0,0,0,0,"PB,AP-1,AP MVP-1,AP OPoY-4,AP CPoY-9"
+2024,27,BAL,NFL,QB,17,17,0,0,0,0,0,0,10,5,-28,0,0.0,0,0,0,0,0,0,"PB,AP-1,AP MVP-2,AP OPoY-2"
+7 Yrs,,103,94,0,0,0,0,0,1,63,26,-64,0,0.0,1,1,0,0,0,0,,,,
+17 Game Avg,,17,16,0,0,0,0,0,0,10,4,-11,0,0.0,0,0,0,0,0,0,,,,

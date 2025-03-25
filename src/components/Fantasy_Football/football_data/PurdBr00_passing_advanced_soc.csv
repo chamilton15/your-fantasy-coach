@@ -1,0 +1,8 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23,Column_24,Column_25,Column_26,Column_27,Column_28,Column_29,Column_30,Column_31,Column_32,Column_33,Column_34,Column_35,Column_36,Column_37,Column_38,Column_39,Column_40,Column_41,Column_42
+,Air Yards,Accuracy,Pressure,RPO,PlayAction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Season,Age,Team,Lg,Pos,G,GS,Cmp,Att,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Bats,ThAwy,Spikes,Drops,Drop%,BadTh,Bad%,OnTgt,OnTgt%,PktTime,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,Plays,Yds,PassAtt,PassYds,RushAtt,RushYds,PassAtt,PassYds,Awards
+2022,23,SFO,NFL,QB,9,5,114,170,1119,6.6,668,5.9,3.9,706,6.2,7,5,0,13,7.9,20,12.1,127,77.0,2.3,54,5,15,31,16.6,6,4.2,9,102,9,102,0,0,37,288,AP ORoY-3
+2023,24,SFO,NFL,QB,16,16,308,444,3623,8.2,2226,7.2,5.0,2054,6.7,13,12,3,9,2.1,70,16.3,324,75.5,2.6,142,28,42,98,20.1,16,7.8,24,236,20,227,1,9,93,969,"PB,AP MVP-4,AP OPoY-6,AP CPoY-6"
+2024,25,SFO,NFL,QB,15,15,300,455,3809,8.4,2220,7.4,4.9,1644,5.5,10,10,5,19,4.3,62,14.1,345,78.4,2.5,142,32,38,101,19.1,44,6.8,38,374,32,351,2,23,86,896,
+3 Yrs,,40,36,722,1069,8551,8.0,5114,7.1,4.8,4404,6.1,30,27,8,41,4.0,152,14.7,796,77.0,2.5,338,65,95,230,19.1,66,6.8,71,712,61,680,3,32,216,2153,,,,
+17 Game Avg,,17,15,307,454,3634,8.0,2173,7.1,4.8,1872,6.1,13,11,3,17,4.0,65,14.7,338,32.7,2.5,144,28,40,98,19.1,28,6.8,30,303,26,289,1,14,92,915,,,,

@@ -1,0 +1,11 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23,Column_24,Column_25,Column_26,Column_27,Column_28,Column_29
+,Pass Coverage,Pass Rush,Tackles,,,,,,,,,,,,,,,,,,,,,,,,,
+Season,Age,Team,Lg,Pos,G,GS,Int,Tgt,Cmp,Cmp%,Yds,Yds/Cmp,Yds/Tgt,TD,Rat,DADOT,Air,YAC,Bltz,Hrry,QBKD,Bats,Sk,Prss,Comb,MTkl,MTkl%,Awards
+2018,27,LAR,NFL,RDT,16,16,0,1,0,0.0,0,,0.0,0,39.6,-2.0,0,0,0,30,19,0,20.5,70,59,6,9.2,"PB,AP-1,AP DPoY-1"
+2019,28,LAR,NFL,RDE,16,16,0,0,0,,0,,,0,,,0,0,0,32,9,2,12.5,55,48,6,11.1,"PB,AP-1,AP DPoY-5"
+2020,29,LAR,NFL,DT,16,16,0,2,2,100.0,15,7.5,7.5,0,97.9,-5.5,-11,26,0,14,15,0,13.5,45,45,2,4.3,"PB,AP-1,AP DPoY-1"
+2021,30,LAR,NFL,LDT,17,17,0,1,1,100.0,-4,-4.0,-4.0,0,79.2,-6.0,-6,2,0,16,10,3,12.5,41,84,6,6.7,"PB,AP-1,AP DPoY-3"
+2022,31,LAR,NFL,DT,11,11,0,2,1,50.0,5,5.0,2.5,0,56.2,-2.5,-2,7,0,5,6,2,5.0,16,49,2,3.9,PB
+2023,32,LAR,NFL,DT,16,16,0,1,1,100.0,-1,-1.0,-1.0,0,79.2,-6.0,-6,5,0,8,14,2,8.0,31,53,5,8.6,"PB,AP-1,AP CPoY-9"
+6 Yrs,,92,92,0,7,5,71.4,15,3.0,2.1,0,74.1,-4.3,-25,40,0,105,73,9,72.0,258,338,27,7.4,,,,
+17 Game Avg,,17,17,0,1,1,71.4,3,3.0,2.1,0,74.1,-4.3,-5,7,0,19,13,2,13.3,48,62,5,7.4,,,,

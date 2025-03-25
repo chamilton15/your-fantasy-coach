@@ -1,0 +1,13 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23,Column_24,Column_25,Column_26
+,Def Interceptions,Fumbles,,Tackles,,,,,,,,,,,,,,,,,,,,,
+Season,Age,Team,Lg,Pos,G,GS,Int,Yds,IntTD,Lng,PD,FF,Fmb,FR,Yds,FRTD,Sk,Comb,Solo,Ast,TFL,QBHits,Sfty,AV,Awards
+2017,23,PIT,NFL,ROLB,15,15,1,17,0,17,7,1,0,0,0,0,7.0,54,40,14,10,13,0,7,
+2018,24,PIT,NFL,LOLB,16,16,0,0,0,0,3,6,0,0,0,0,13.0,68,50,18,12,21,0,11,PB
+2019,25,PIT,NFL,LOLB,16,16,2,7,0,7,8,8,0,4,0,0,14.5,55,35,20,14,36,0,14,"PB,AP-1,AP DPoY-3"
+2020,26,PIT,NFL,LOLB,15,15,1,0,0,0,7,2,0,0,0,0,15.0,53,43,10,23,41,0,18,"PB,AP-1,AP DPoY-2"
+2021,27,PIT,NFL,LOLB,15,15,0,0,0,0,7,5,0,3,1,0,22.5,64,48,16,21,39,0,15,"PB,AP-1,AP DPoY-1"
+2022,28,PIT,NFL,LOLB,10,10,2,0,0,0,5,1,0,0,0,0,5.5,39,27,12,8,12,0,8,PB
+2023,29,PIT,NFL,LB,17,17,1,24,0,24,8,4,0,3,34,1,19.0,68,48,20,19,36,0,18,"PB,AP-1,AP DPoY-2"
+2024,30,PIT,NFL,LB,17,17,0,0,0,0,4,6,0,2,0,0,11.5,61,40,21,19,27,0,14,"PB,AP-2,AP DPoY-4"
+8 Yrs,,121,121,7,48,0,24,49,33,0,12,35,1,108.0,462,331,131,126,225,0,105,,,,
+17 Game Avg,,17,17,1,7,0,24,7,5,0,2,5,0,15.2,65,47,18,18,32,0,15,,,,

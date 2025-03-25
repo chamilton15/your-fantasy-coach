@@ -1,0 +1,13 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23,Column_24,Column_25,Column_26,Column_27,Column_28
+,,Passing,Rushing,Receiving,Fantasy,,,,,,,,,,,,,,,,,,,,,,
+Player,Tm,Age,Pos,G,GS,FantPos,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank
+Saquon Barkley*+,PHI,27,RB,16,16,RB,0,0,0,0,0,345,2005,5.8,13,43,33,278,8.4,2,322,355,362.3,338.8,163,1,1
+Derrick Henry*,BAL,30,RB,17,17,RB,0,0,0,0,0,325,1921,5.9,16,22,19,193,10.2,2,317,336,343.4,326.9,159,2,2
+Jahmyr Gibbs*,DET,22,RB,17,4,RB,0,0,0,0,0,250,1412,5.6,16,63,52,517,9.9,4,311,363,369.9,336.9,153,3,3
+Lamar Jackson*+,BAL,27,QB,17,17,QB,316,474,4172,41,4,139,915,6.6,4,0,0,0,,0,430,430,445.4,434.4,140,1,4
+Ja'Marr Chase*+,CIN,24,WR,17,16,WR,0,0,0,0,0,3,32,10.7,0,175,127,1708,13.4,17,276,403,406.0,339.5,138,1,5
+Bijan Robinson*,ATL,22,RB,17,17,RB,0,0,0,0,0,304,1456,4.8,14,72,61,431,7.1,1,281,342,347.7,311.2,124,4,6
+Josh Jacobs*,GNB,26,RB,17,17,RB,0,0,0,0,0,301,1329,4.4,15,43,36,342,9.5,1,257,293,302.1,275.1,102,5,7
+Josh Allen*,BUF,28,QB,17,17,QB,307,483,3731,28,6,102,531,5.2,12,0,0,7,,1,379,379,393.0,385.0,91,2,8
+Joe Burrow*,CIN,28,QB,17,17,QB,460,652,4918,43,9,42,201,4.8,2,0,0,0,,0,373,373,392.8,381.8,85,3,9
+Kyren Williams,LAR,24,RB,16,16,RB,0,0,0,0,0,316,1299,4.1,14,40,34,182,5.4,2,238,272,281.1,255.1,84,6,10

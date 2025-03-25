@@ -1,0 +1,14 @@
+Column_1,Column_2,Column_3,Column_4,Column_5,Column_6,Column_7,Column_8,Column_9,Column_10,Column_11,Column_12,Column_13,Column_14,Column_15,Column_16,Column_17,Column_18,Column_19,Column_20,Column_21,Column_22,Column_23
+,Games,Passing,Rushing,Receiving,,,,,,,,,,,,,,,,,,
+Rk,Pos,Player,Tm,Vote Pts,1st Place,Share,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Solo,Sk,Int
+1,QB,Josh Allen,Buffalo Bills,383.0,27,76.6%,17,17,307,483,3731,28,6,102,531,12,0,7,1,0,0.0,0
+2,QB,Lamar Jackson,Baltimore Ravens,362.0,23,72.4%,17,17,316,474,4172,41,4,139,915,4,0,0,0,0,0.0,0
+3,RB,Saquon Barkley,Philadelphia Eagles,120.0,0,24%,16,16,0,0,0,0,0,345,2005,13,33,278,2,0,0.0,0
+4,QB,Joe Burrow,Cincinnati Bengals,82.0,0,16.4%,17,17,460,652,4918,43,9,42,201,2,0,0,0,0,0.0,0
+5,QB,Jared Goff,Detroit Lions,47.0,0,9.4%,17,17,390,539,4629,37,12,35,56,0,1,7,1,0,0.0,0
+6,QB,Patrick Mahomes,Kansas City Chiefs,31.0,0,6.2%,16,16,392,581,3928,26,11,58,307,2,1,2,0,0,0.0,0
+7,QB,Jayden Daniels,Washington Commanders,8.0,0,1.6%,17,17,331,480,3568,25,9,148,891,6,0,0,0,0,0.0,0
+8,WR,Ja'Marr Chase,Cincinnati Bengals,6.0,0,1.2%,17,16,0,0,0,0,0,3,32,0,127,1708,17,0,0.0,0
+9,QB,Justin Herbert,Los Angeles Chargers,6.0,0,1.2%,17,17,332,504,3870,23,3,69,306,2,0,0,0,0,0.0,0
+10,QB,Sam Darnold,Minnesota Vikings,3.0,0,0.6%,17,17,361,545,4319,35,12,67,212,1,0,0,0,0,0.0,0
+11,QB,Baker Mayfield,Tampa Bay Buccaneers,2.0,0,0.4%,17,17,407,570,4500,41,16,60,378,3,0,0,0,0,0.0,0

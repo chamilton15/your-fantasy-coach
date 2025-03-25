@@ -18,10 +18,11 @@ const Chatbot = () => {
       },
       body: JSON.stringify({ text: input }),
     });
-    const text = await res.text();
+
+    const data = await res.json();
 
     setTimeout(() => {
-      const botResponse = { text: text, user: "Bot" };
+      const botResponse = { text: data.answer, user: "Bot" };
       setMessages([...newMessages, botResponse]);
     }, 1000);
   };

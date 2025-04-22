@@ -6,7 +6,10 @@ This project uses React.js, Flask, and OpenAI AgentSDK, among other technologies
 
 ## Dependencies 
 
-dependency 1
+Flask>=2.3.0
+flask-cors>=3.0.10
+openai>=1.0.0
+requests>=2.28.0
 
 ## Order of Commands for Getting Started
 Navigate to your-fantasy-coach directory and run these commands to set up the front-end.
@@ -15,6 +18,7 @@ Navigate to your-fantasy-coach directory and run these commands to set up the fr
 
 Open a seperate terminal and run these commands to set up the backend.
 ``` cd backend ```
+``` pip install -r requirements.txt ```
 ``` python3 app.py ```
 
 # OpenAI API

@@ -4,6 +4,10 @@ This project uses React.js, Flask, and OpenAI AgentSDK, among other technologies
 
 # Installation
 
+# Dependencies #
+
+
+
 ## Order of Commands for Getting Started
 Navigate to your-fantasy-coach directory and run these commands to set up the front-end.
 ``` npm install ```

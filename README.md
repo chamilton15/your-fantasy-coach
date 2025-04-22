@@ -7,8 +7,11 @@ This project uses React.js, Flask, and OpenAI AgentSDK, among other technologies
 ## Dependencies 
 
 Flask>=2.3.0
+
 flask-cors>=3.0.10
+
 openai>=1.0.0
+
 requests>=2.28.0
 
 ## Order of Commands for Getting Started

@@ -4,7 +4,7 @@ This project uses React.js, Flask, and OpenAI AgentSDK, among other technologies
 
 # Installation
 
-# Dependencies #
+## Dependencies 
 
 
 

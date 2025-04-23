@@ -14,6 +14,8 @@ openai>=1.0.0
 
 requests>=2.28.0
 
+openai-agents>=0.0.9
+
 ## Order of Commands for Getting Started
 
 Navigate to your-fantasy-coach directory and run these commands to set up the front-end.
